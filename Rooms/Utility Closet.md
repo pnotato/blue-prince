@@ -1,0 +1,9 @@
+---
+tags:
+  - games/blue-prince
+  - games/blue-prince/rooms
+  - games/blue-prince/rooms/mechanical
+  - games/blue-prince/rooms/blueprint
+  - games/blue-prince/rooms/dead-end
+---
+![](Attachments/Pasted%20image%2020260322193723.png)
