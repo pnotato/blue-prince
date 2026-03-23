@@ -5,4 +5,6 @@
 
 ![](Attachments/Pasted%20image%2020260322201028.png)
 
+### Day 3
 
+![](Attachments/Pasted%20image%2020260322222230.png)

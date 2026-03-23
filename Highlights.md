@@ -9,8 +9,8 @@ tags:
 
 ![](Rooms/Attachments/Screenshot%202026-03-22%20at%2012.41.56%20AM.png)
 
-![](Rooms/Attachments/Screenshot%202025-03-22%20at%2012.55.51%20AM.png)
-
 ![](Rooms/Attachments/Screenshot%202026-03-22%20at%2012.58.06%20AM.png)
 
+### Day 3
 
+![](Attachments/Pasted%20image%2020260322212625.png)
