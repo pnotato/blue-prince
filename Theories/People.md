@@ -8,6 +8,8 @@ aliases:
   - Me
   - Herbert
   - Daniel
+  - Mr. Revane
+  - Mrs. Babbage
 ---
 ### Who Am I?
 -  I'm Simon P. Jones, Herbert S. Sinclair's Nephew
@@ -31,16 +33,16 @@ aliases:
 ### Bridgette
 - The [Pantry](../Rooms/Pantry.md) has a note addressed to her.
 
-
 ### Cristoph
 - The [Garage](../Rooms/Garage.md) has a note addressed to him.
 - Herbert's Chauffer?
 
-### Mrs. Bridgette
+### Mrs. Anne Babbage
 - The House Manager
 - The [Garage](../Rooms/Garage.md) has a note written by her.
-- Another note with [Maid's Chamber](../Rooms/Maid's%20Chamber.md)
-- Also mentioned in the [Commissary](../Rooms/Commissary.md)
+- Another note with [Maid's Chamber](../Rooms/Maid's%20Chamber.md).
+- Also mentioned in the [Commissary](../Rooms/Commissary.md).
+- Also mentioned in the [Hovel](../Rooms/Hovel.md).
 
 ### M. Lowry
 - Who is this?
@@ -48,3 +50,7 @@ aliases:
 
 ### Clara Epsen
 - Mentioned in the [Hallway](../Rooms/Hallway.md).
+
+### Mr. Revane
+- The groundskeeper.
+- Has a notice of termination in the [Hovel](../Rooms/Hovel.md).

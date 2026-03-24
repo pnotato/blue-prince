@@ -73,3 +73,19 @@ Black Box: All three boxes are empty
 **Reasoning**: Black is false. If Blue is true, white is also true. 
 - Blue is false: black box does not contain gems.This means either Black or White must be true. Black cannot be true, so White must be true. This is not possible.
 - White is false, this implies two boxes are not empty. This is not possible.
+
+### Day 7
+
+Blue Box: The statement on the white box is true.
+White Box: There is a second wind-up key in this room.
+Black Box: This box and the white box are both empty.
+
+**Reasoning**: White does not appear to be true. If white is false, then at least one of blue or black must be true. Blue cannot be true if white is false, thus black must be true.
+
+### Day 8
+
+Blue Box:
+White Box:
+Black Box:
+
+**Reasoning**: 
