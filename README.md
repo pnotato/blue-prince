@@ -11,12 +11,12 @@
 
 ### Day 4
 
-![](Pasted%20image%2020260323220709.png)
+![](Attachments/Pasted%20image%2020260323220709.png)
 
 ### Day 5
 
-![](Pasted%20image%2020260323224443.png)
+![](Attachments/Pasted%20image%2020260323224443.png)
 
 ### Day 6
 
-![](Pasted%20image%2020260323231556.png)
+![](Attachments/Pasted%20image%2020260323231556.png)
