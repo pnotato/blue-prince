@@ -16,3 +16,7 @@
 ### Day 5
 
 ![](Pasted%20image%2020260323224443.png)
+
+### Day 6
+
+![](Pasted%20image%2020260323231556.png)
