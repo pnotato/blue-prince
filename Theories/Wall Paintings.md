@@ -5,7 +5,7 @@ tags:
 aliases:
   - Painting
 ---
-![[../../../../Excalidraw/Paintings.excalidraw]]
+![Paintings.excalidraw](../../../../Excalidraw/Paintings.excalidraw.md)
 
 - A Streamer mentioned that there’s lots of math in this game, such as tie time or lock clock?
 - So far, they seem to be words missing a letter.
@@ -31,7 +31,7 @@ aliases:
 
 In the entrance hall there seems to be these 2 paintings as well. What they are, I can't tell.
 
-![](Pasted%20image%2020260323204700.png)
+![](Attachments/Pasted%20image%2020260323204700.png)
 ### Notes
 
 - Does [[the spare room]] not have paintings?
@@ -44,4 +44,4 @@ In the entrance hall there seems to be these 2 paintings as well. What they are,
 - Hmm, the missing letter of row two spells "EIGHT"
 - The missing letters probably spell out a message.
 
-![[Missing Letters]]
+![Missing Letters](../../../../Excalidraw/Missing%20Letters.md)

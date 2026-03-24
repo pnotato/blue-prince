@@ -13,9 +13,9 @@ tags:
 - Is the [Billard Room](Billard%20Room.md) rare?
 
 - A reddington postcard can be found in the regular bedroom.
-- Who wrote this note? See [People](People.md).
+- Who wrote this note? See [People](../Theories/People.md).
 
 
 ### Bunk Beds
 
-![](Pasted%20image%2020260323230251.png)
+![](Attachments/Pasted%20image%2020260323230251.png)

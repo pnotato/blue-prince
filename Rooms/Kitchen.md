@@ -4,10 +4,10 @@ tags:
   - games/blue-prince/rooms
   - games/blue-prince/rooms/shop
 ---
-![](Pasted%20image%2020260323212636.png)
+![](Attachments/Pasted%20image%2020260323212636.png)
 - Huh, I need to go find a [[Morning Room]].
 
-![](Pasted%20image%2020260323212653.png)
+![](Attachments/Pasted%20image%2020260323212653.png)
 
 - What is a [[Trophy Room]]?
 - Seems like this room is beneficial if I have a [[Dining Room]] 

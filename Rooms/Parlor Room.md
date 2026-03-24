@@ -5,7 +5,7 @@ tags:
   - games/blue-prince/rooms/blueprint
   - games/blue-prince/rooms/puzzle
 ---
-![](Pasted%20image%2020260323224955.png)
+![](Attachments/Pasted%20image%2020260323224955.png)
 
 ![](Attachments/Screenshot%202026-03-22%20at%2012.26.16%20AM.png)
 ## Day 1
@@ -62,7 +62,7 @@ Black Box: The blue box is true
 
 **Reasoning**: Blue is obviously true, which means black is definitely true. That must mean white is false, and that it is not empty.
 
-**Next Day:** Check who wrote the note! See [People](People.md)
+**Next Day:** Check who wrote the note! See [People](../Theories/People.md)
 
 ### Day 6
 
