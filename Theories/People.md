@@ -10,7 +10,7 @@ aliases:
   - Daniel
 ---
 ### Who Am I?
--  I'm Simon, Herbert S. Sinclair's Nephew
+-  I'm Simon P. Jones, Herbert S. Sinclair's Nephew
 - Red prince and love of the color red
 
 ### Marion
@@ -37,5 +37,14 @@ aliases:
 - Herbert's Chauffer?
 
 ### Mrs. Bridgette
+- The House Manager
 - The [Garage](Garage.md) has a note written by her.
 - Another note with [Maid's Chamber](Maid's%20Chamber.md)
+- Also mentioned in the [Commissary](Commissary.md)
+
+### M. Lowry
+- Who is this?
+- A note has been written to Herbert in the [Parlor Room](Parlor%20Room.md)
+
+### Clara Epsen
+- Mentioned in the [Hallway](Hallway.md).

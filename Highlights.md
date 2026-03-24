@@ -21,3 +21,7 @@ tags:
 - This was because I drafted a utility box after the garage!
 
 ![](Pasted%20image%2020260323223321.png)
+
+### Day 6
+
+![](Pasted%20image%2020260323230722.png)

@@ -5,6 +5,8 @@ tags:
   - games/blue-prince/rooms/blueprint
   - games/blue-prince/rooms/puzzle
 ---
+![](Pasted%20image%2020260323224955.png)
+
 ![](Attachments/Screenshot%202026-03-22%20at%2012.26.16%20AM.png)
 ## Day 1
 
@@ -61,3 +63,13 @@ Black Box: The blue box is true
 **Reasoning**: Blue is obviously true, which means black is definitely true. That must mean white is false, and that it is not empty.
 
 **Next Day:** Check who wrote the note! See [People](People.md)
+
+### Day 6
+
+Blue Box: The black box contains gems
+White Box: This box and the blue box are empty
+Black Box: All three boxes are empty
+
+**Reasoning**: Black is false. If Blue is true, white is also true. 
+- Blue is false: black box does not contain gems.This means either Black or White must be true. Black cannot be true, so White must be true. This is not possible.
+- White is false, this implies two boxes are not empty. This is not possible.

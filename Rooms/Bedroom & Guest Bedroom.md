@@ -14,3 +14,8 @@ tags:
 
 - A reddington postcard can be found in the regular bedroom.
 - Who wrote this note? See [People](People.md).
+
+
+### Bunk Beds
+
+![](Pasted%20image%2020260323230251.png)
