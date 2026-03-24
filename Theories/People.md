@@ -28,3 +28,14 @@ aliases:
 ### Daniel
 -  The [Boudoir](Boudoir.md) mentions that Daniel is my father, and that I'm Herbert's nephew.
 
+### Bridgette
+- The [Pantry](Pantry.md) has a note addressed to her.
+
+
+### Cristoph
+- The [Garage](Garage.md) has a note addressed to him.
+- Herbert's Chauffer?
+
+### Mrs. Bridgette
+- The [Garage](Garage.md) has a note written by her.
+- Another note with [Maid's Chamber](Maid's%20Chamber.md)

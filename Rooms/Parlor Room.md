@@ -52,3 +52,12 @@ Black Box: The gems are in this box
 
 - The gems must be in the blue box, as this is the only possible case.
 
+### Day 5
+
+Blue Box: You are in the parlor
+White Box: This box is empty
+Black Box: The blue box is true
+
+**Reasoning**: Blue is obviously true, which means black is definitely true. That must mean white is false, and that it is not empty.
+
+**Next Day:** Check who wrote the note! See [People](People.md)
