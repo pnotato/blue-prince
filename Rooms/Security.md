@@ -6,7 +6,7 @@ tags:
   - games/blue-prince/rooms/mechanical
   - games/blue-prince/observations/red-memo
   - games/blue-prince/observations/blue-memo
-  - games/blue-prince/observations/knight
+  - games/blue-prince/observations/chess
 ---
 ![](Attachments/Pasted%20image%2020260322192446.png)
 - omg cutscene
@@ -53,3 +53,5 @@ BE LOCKED AS YOU PROGRESS NORTH.
 ```
 
 - Are Blue and Red Memos the same between runs? Probably not.
+	- Answer: No, they seem the same
+- Security has a Knight

@@ -1,7 +1,9 @@
 ---
 tags:
   - games/blue-prince
-  - game/blue-prince/theories
+  - games/blue-prince/theories
+aliases:
+  - Painting
 ---
 ![[../../../../Excalidraw/Paintings.excalidraw]]
 
@@ -27,9 +29,19 @@ tags:
 - In the [East Wing Hall](../Rooms/West%20Wing%20Hall%20&%20East%20Wing%20Hall.md): Car and Cart
 - In the [[Bunk Bed]]: Stag and Tag
 
+In the entrance hall there seems to be these 2 paintings as well. What they are, I can't tell.
+
+![](Pasted%20image%2020260323204700.png)
 ### Notes
 
 - Does [[the spare room]] not have paintings?
 - Does [[Passageway]] not have paintings?
 - Does [Chapel](../Rooms/Chapel.md) not have paintings (or all red rooms I guess)?
 - Do #games/blue-prince/rooms/green-room not have paintings?
+
+- Since Ten and Tag share the same painting, we should assume that the painting may not mean the same word every time.
+
+- Hmm, the missing letter of row two spells "EIGHT"
+- The missing letters probably spell out a message.
+
+![[Missing Letters]]
