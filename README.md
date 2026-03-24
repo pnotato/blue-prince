@@ -8,3 +8,7 @@
 ### Day 3
 
 ![](Attachments/Pasted%20image%2020260322222230.png)
+
+### Day 4
+
+![](Pasted%20image%2020260323220709.png)

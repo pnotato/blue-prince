@@ -7,3 +7,6 @@ tags:
   - games/blue-prince/rooms/dead-end
 ---
 ![](Attachments/Pasted%20image%2020260322193723.png)
+
+- What do the VAC Indicators do?
+- On day 4, I'm trying to turn them all on and see what they do.

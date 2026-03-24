@@ -3,10 +3,26 @@ tags:
   - games/blue-prince
   - games/blue-prince/rooms
   - games/blue-prince/rooms/bedroom
+  - games/blue-prince/observations/safe
 ---
 ![](Attachments/Pasted%20image%2020260322221552.png)
 
 ![](Attachments/Pasted%20image%2020260322221644.png)
 
 - A safe is found here. 
-- I was able to guess what the code was from spoilers. There's a gem and note within the safe. For the sake of keeping the game fun, I'm not going to read the note until I understand how I would've found the note.
+- The Christmas note means the code is 1225.
+
+### The Note
+
+- The [Archives](Archives.md) mention that Marion is Herbert's Niece and closest living relation.
+- The note itself is labelled with a number 4.
+
+![](Pasted%20image%2020260323213404.png)
+
+![](Pasted%20image%2020260323214736.png)
+
+- Seems like [Marion](People.md) was part of a rebellion? Against the throne?
+
+![](Pasted%20image%2020260323215141.png)
+
+- Am I going to be [Herbert](People.md)'s number 1 hater??

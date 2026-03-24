@@ -32,3 +32,23 @@ White Box: This is the Black Box.
 Black Box: The Black Box is not empty.
 
 **Reasoning**: Are white and blue telling the truth? It doesn't seem like it. If we take white and blue as false, then Black must be the true one. Since it claims that black is not empty, I'm going to assume it's the (actual) black box.
+
+
+### Day 4
+
+Blue Box:  The gems are not in the white box
+White Box: The gems are not in this box
+Black Box: The gems are in this box
+
+**Reasoning**: 
+- Blue is False: gems are in the white box. This means that the white box is also false, meaning the black box must be true. This cannot be as the gems can only be in one box, and white being false implies that the gems are in white too. 
+- White is False: implies blue is also false. This also means that black is the true box, which again can't happen as the gems cannot be in two places at once.
+- Black is False: the gems are not in black. 
+	- Blue is True: the gems are in the blue box
+	- White is True: the gems are in the blue box
+- Blue is True: gems are not in the white box, making white true and black false. This tells us nothing.
+- White is true, blue is also true, and black is false. This tells us nothing
+- Black is true, Blue is true and white is true. This cannot happen.
+
+- The gems must be in the blue box, as this is the only possible case.
+

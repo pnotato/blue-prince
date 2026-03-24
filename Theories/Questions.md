@@ -19,17 +19,12 @@ cssclasses:
 
 - **Testificates/Guests**: I think it's just random shops like [Locksmith](../Rooms/Locksmith.md).
 	- Although, what does the [Lavatory](../Rooms/Lavatory.md) mean, on how visitors gather there?
-
 - **Keys**: The normal keys open chests, special keys open rooms, lockpicking kit opens both?
 - [Alzara](../Rooms/Rumpus%20Room.md)**'s Prophecy:** how many does he have? What is bro yappin about?
 
 - **Outside the Estate**: Is there anything there?
 	- Seems pretty accessible
 
-- **Who am I**:
-	- I'm Herbert S. Sinclair's Nephew
-	- In the [Archives](../Rooms/Archives.md) we find a note that mentions a niece as well.
-	- Red prince and love of the color red
 
 - **Memos**:
 	- Do the red and blue memos in [Security](../Rooms/Security.md) remain the same between days? e.g. could they flip being true/false between days?
