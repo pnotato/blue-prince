@@ -13,3 +13,4 @@ tags:
 - Is the [Billard Room](Billard%20Room.md) rare?
 
 - A reddington postcard can be found in the regular bedroom.
+- Who wrote this note? See [People](People.md).

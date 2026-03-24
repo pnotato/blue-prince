@@ -10,3 +10,4 @@ tags:
 
 - What do the VAC Indicators do?
 - On day 4, I'm trying to turn them all on and see what they do.
+- Turning on the [Garage](Garage.md) turns on the lights?

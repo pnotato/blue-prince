@@ -14,3 +14,10 @@ tags:
 ### Day 3
 
 ![](Attachments/Pasted%20image%2020260322212625.png)
+
+### Day 5
+
+![](Pasted%20image%2020260323222449.png)
+- This was because I drafted a utility box after the garage!
+
+![](Pasted%20image%2020260323223321.png)
