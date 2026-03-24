@@ -43,5 +43,3 @@ In the entrance hall there seems to be these 2 paintings as well. What they are,
 
 - Hmm, the missing letter of row two spells "EIGHT"
 - The missing letters probably spell out a message.
-
-![Missing Letters](../../../../Excalidraw/Missing%20Letters.md)
