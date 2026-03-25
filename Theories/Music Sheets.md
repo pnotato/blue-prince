@@ -4,10 +4,10 @@ tags:
   - games/blue-prince/rooms
   - games/blue-prince/theories
 ---
-- Pages 1-4 are found in the [Music Room](Music%20Room.md)
-- Page 5 is in the [Greenhouse](Greenhouse.md).
+- Pages 1-4 are found in the [Music Room](../Rooms/Music%20Room.md)
+- Page 5 is in the [Greenhouse](../Rooms/Greenhouse.md).
 - A key to a secret garden is found here?
-	- By brute force I was able to find a [Secret Garden](Secret%20Garden.md) on day 7. See [README](School/CMPT%20201/README.md).
+	- By brute force I was able to find a [Secret Garden](../Rooms/Secret%20Garden.md) on day 7. See [README](../../../../School/CMPT%20201/README.md).
 ### Thoughts
 - The key I seek is in major tongue? 
 - A half note held is quite the pun?

@@ -21,8 +21,8 @@ tags:
 
 ![](Attachments/Pasted%20image%2020260323214736.png)
 
-- Seems like [Marion](People.md) was part of a rebellion? Against the throne?
+- Seems like [Marion](../Theories/People.md) was part of a rebellion? Against the throne?
 
 ![](Attachments/Pasted%20image%2020260323215141.png)
 
-- Am I going to be [Herbert](People.md)'s number 1 hater??
+- Am I going to be [Herbert](../Theories/People.md)'s number 1 hater??

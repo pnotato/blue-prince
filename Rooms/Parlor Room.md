@@ -62,7 +62,7 @@ Black Box: The blue box is true
 
 **Reasoning**: Blue is obviously true, which means black is definitely true. That must mean white is false, and that it is not empty.
 
-**Next Day:** Check who wrote the note! See [People](People.md)
+**Next Day:** Check who wrote the note! See [People](../Theories/People.md)
 
 ### Day 6
 
