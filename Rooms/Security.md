@@ -57,4 +57,4 @@ BE LOCKED AS YOU PROGRESS NORTH.
 
 - Are Blue and Red Memos the same between runs? Probably not.
 	- Answer: No, they seem the same
-- Security has a Knight
+- Security has a Knight piece.

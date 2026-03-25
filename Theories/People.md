@@ -16,6 +16,9 @@ aliases:
 -  I'm Simon P. Jones, Herbert S. Sinclair's Nephew
 - Red prince and love of the color red
 
+### Baron Herbert S. Sinclair
+- Mentioned in countless rooms
+- Son of Baroness Auravei
 ### Marion Marigold/Mary Matthew Jones
 - Is Marion my mother? Making me Herbert's Grand-nephew?
 	- Answer: Doesn't seem like it. [Daniel](People.md) is my father.
@@ -46,13 +49,14 @@ aliases:
 - Another note with [Maid's Chamber](Maid's%20Chamber.md).
 - Also mentioned in the [Commissary](Commissary.md).
 - Also mentioned in the [Hovel](Hovel.md).
-
+- Also mentioned in the [Study](Study.md).
 ### M. Lowry
 - Who is this?
 - A note has been written to Herbert in the [Parlor Room](Parlor%20Room.md)
 
 ### Clara Epsen
 - Mentioned in the [Hallway](Hallway.md).
+- Mentioned in the [Schoolhouse](Schoolhouse.md)
 
 ### Mr. Revane
 - The groundskeeper.
@@ -71,6 +75,8 @@ aliases:
 - Publisher
 - Mentioned in the [Archives](Archives.md)
 
+### Mrs. Peterson
+- Future principal, and successor to whoever wrote the message in the [Schoolhouse](Schoolhouse.md).
 ### RLCF
 - An insurgent group, widely believed (although we're not sure) to be responsible for the bombing in Trinsdale that killed 4 people
 - Also called "The Children of Black Water"

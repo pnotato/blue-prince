@@ -62,7 +62,7 @@ Black Box: The blue box is true
 
 **Reasoning**: Blue is obviously true, which means black is definitely true. That must mean white is false, and that it is not empty.
 
-**Next Day:** Check who wrote the note! See [People](../Theories/People.md)
+**Next Day:** Check who wrote the note! See [People](People.md)
 
 ### Day 6
 
@@ -91,6 +91,14 @@ Black Box: This box is the middle box.
 **Reasoning**: Blue and black are obviously false. White must be true.
 
 ### Day 9
+
+Blue Box: This statement appears on another box.
+White Box: The blue box is empty.
+Black Box: This statement appears on another box.
+
+**Reasoning**: Blue and black are obviously true. White must be false.
+
+### Day 10
 
 Blue Box:
 White Box:

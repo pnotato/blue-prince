@@ -7,7 +7,7 @@ tags:
 ![](Attachments/Pasted%20image%2020260323224134.png)
 
 - Does Friday November 6th matter?
-- The Baron of Mount Holly, but there are other estate names? See [README](../README.md)
+- The Baron of Mount Holly, but there are other estate names? See [README](Content/Games/Blue%20Prince/README.md)
 
 ![](Attachments/Pasted%20image%2020260323224301.png)
 
