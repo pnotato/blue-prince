@@ -8,7 +8,7 @@ tags:
 ![](Attachments/Pasted%20image%2020260322215705.png)
 
 - How does this puzzle work?
-- Maybe it's related to the clocks in the [Den](Den)?
+- Maybe it's related to the clocks in the [Den](Den.md)?
 - Yellow is negative, blue is positive, pink is multiply?
 
 

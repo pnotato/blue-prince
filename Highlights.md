@@ -25,3 +25,8 @@ tags:
 ### Day 6
 
 ![](Attachments/Pasted%20image%2020260323230722.png)
+
+### Day 9
+
+![](Attachments/Pasted%20image%2020260324184738.png)
+- So many keys but not enough steps 

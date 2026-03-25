@@ -9,7 +9,7 @@ tags:
 
 ![](Attachments/Pasted%20image%2020260322195610.png)
 
-- Another set of [paintings](../Theories/Questions.md). What do the with and without mean?
+- Another set of [paintings](Content/Games/Blue%20Prince/Theories/Questions.md). What do the with and without mean?
 	- Pine and pin. Pine with and e, and pin without?
 - Another staff notice with a scratched out terminal password same as the one in [Security](Security.md).
 

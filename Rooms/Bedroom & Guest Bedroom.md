@@ -4,16 +4,18 @@ tags:
   - games/blue-prince/rooms
   - games/blue-prince/rooms/dead-end
   - games/blue-prince/rooms/bedroom
+  - games/blue-prince/observations/chess
 ---
 ![](Attachments/Screenshot%202026-03-22%20at%2012.52.58%20AM.png)
 
 + +10 steps? 
 - On day 2, this message shows up again. Messages don't reset between days?
 - In the regular bedroom, there's a finger pointing down. What does that mean?
+- Also contains a pawn
 - Is the [Billard Room](Billard%20Room.md) rare?
 
 - A reddington postcard can be found in the regular bedroom.
-- Who wrote this note? See [People](../Theories/People.md).
+- Who wrote this note? See [People](People.md).
 
 
 ### Bunk Beds
@@ -22,5 +24,5 @@ tags:
 
 ### Photos
 
-![](Pasted%20image%2020260324173622.png)
+![](Attachments/Pasted%20image%2020260324173622.png)
 - Who is this?
