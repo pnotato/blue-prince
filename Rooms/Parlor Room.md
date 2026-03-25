@@ -84,6 +84,14 @@ Black Box: This box and the white box are both empty.
 
 ### Day 8
 
+Blue Box: This box is the middle box.
+White Box: The gems are in the middle box.
+Black Box: This box is the middle box.
+
+**Reasoning**: Blue and black are obviously false. White must be true.
+
+### Day 9
+
 Blue Box:
 White Box:
 Black Box:

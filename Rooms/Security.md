@@ -19,12 +19,15 @@ tags:
 	- There seems to be a way to disable the keycard system in the [Utility Closet](Utility%20Closet.md).
 - What is offline mode?
 - What's the password to login to the network?
+	- Starts with an S?
 
 ### Security Doors
 
 - On day 3 I wasn't able to open a door in this room due to needing keycard access. Probably needs to be disabled via a [Utility Closet](Utility%20Closet.md).
 	- This does not seem to be the case. All it does is power down the keycard system.
 
+- Oh, the computer has an option to set the default offline mode to unlocked. A [Utility Closet](Utility%20Closet.md) is probably needed to disable the keycard system then, thus leaving the doors unlocked.
+- Then, setting the security level to HIGH is probably much better, as that'll lead to more unlocked doors to access.
 ### Red Memos
 
 ```
