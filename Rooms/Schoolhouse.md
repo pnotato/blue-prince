@@ -12,5 +12,5 @@ tags:
 
 ![](Attachments/Pasted%20image%2020260324180017.png)
 
-- A second spigot is found in this room, lighting yet another [Fire](Flames.md).
+- A second spigot is found in this room, lighting yet another [Fire](../Theories/Flames.md).
 - A chalkboard mentions "within a timely manor"
