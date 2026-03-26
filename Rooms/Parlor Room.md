@@ -100,6 +100,14 @@ Black Box: This statement appears on another box.
 
 ### Day 10
 
+Blue Box: The gems are on the desk
+White Box: The gems are in this box
+Black Box: The gems are on the floor
+
+**Reasoning**: Black and Blue are false. White is true.
+
+### Day 11
+
 Blue Box:
 White Box:
 Black Box:

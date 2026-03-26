@@ -3,13 +3,12 @@ tags:
   - games/blue-prince
 ---
 ### Day 1
-- 5 dice on day 1, with 2 in the first room
 
-![](Rooms/Attachments/Screenshot%202026-03-22%20at%2012.17.34%20AM.png)
+![](Attachments/Screenshot%202026-03-22%20at%2012.17.34%20AM.png)
+![](Attachments/Screenshot%202026-03-22%20at%2012.41.56%20AM.png)
+*5 dice on day 1, with 2 in the first room*
 
-![](Rooms/Attachments/Screenshot%202026-03-22%20at%2012.41.56%20AM.png)
-
-![](Rooms/Attachments/Screenshot%202026-03-22%20at%2012.58.06%20AM.png)
+![](Attachments/Screenshot%202026-03-22%20at%2012.58.06%20AM.png)
 
 ### Day 3
 
@@ -18,7 +17,7 @@ tags:
 ### Day 5
 
 ![](Attachments/Pasted%20image%2020260323222449.png)
-- This was because I drafted a utility box after the garage!
+*This was because I drafted a utility box after the garage!*
 
 ![](Attachments/Pasted%20image%2020260323223321.png)
 
@@ -29,4 +28,13 @@ tags:
 ### Day 9
 
 ![](Attachments/Pasted%20image%2020260324184738.png)
-- So many keys but not enough steps 
+*So many keys but not enough steps.* 
+
+### Day 10
+
+![](Attachments/Pasted%20image%2020260325205551.png)
+*Well this is interesting.*
+
+![](Attachments/Pasted%20image%2020260325220837.png)
+- Answers if anyone is watching me.
+- I haven't seen another [Rumpus Room](Rooms/Rumpus%20Room.md) since?
