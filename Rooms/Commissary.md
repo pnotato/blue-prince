@@ -24,3 +24,4 @@ INCONVENIENCE.
 ```
 
 - As [Security](Security.md) says red notes are a lie, do we assume this is false?
+- As we can see on day 12, this was not true.

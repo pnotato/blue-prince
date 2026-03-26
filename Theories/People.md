@@ -20,6 +20,7 @@ aliases:
 -  I'm Simon P. Jones, Herbert S. Sinclair's Nephew
 - Red prince and love of the color red
 - I'm an alligator. The letter in the [Mail Room](../Rooms/Mail%20Room.md) says so.
+- I am Marion's son.
 
 ### Baron Herbert S. Sinclair
 - Mentioned in countless rooms
@@ -27,6 +28,7 @@ aliases:
 ### Marion Marigold/Mary Matthew Jones
 - Is Marion my mother? Making me Herbert's Grand-nephew?
 	- Answer: Doesn't seem like it. [Daniel](People.md) is my father.
+	- Answer: I am. The [Morning Room](../Rooms/Morning%20Room.md) confirms so!
 - The [Archives](../Rooms/Archives.md) mention that Marion's a famous writer, with a pen name "Marigold". 
 	- Marion wrote a book called "Swim Bird"
 	- She mentions her son got her to start writing
@@ -37,6 +39,7 @@ aliases:
 	- She gave up her family/fortune?
 	- Disappeared as per a message in the [Archives](../Rooms/Archives.md)
 - Photo in the [Archives](../Rooms/Archives.md) and in the [Bedroom & Guest Bedroom](../Rooms/Bedroom%20&%20Guest%20Bedroom.md)?
+- Mentioned in the [Morning Room](../Rooms/Morning%20Room.md)
 
 ### Daniel
 -  The [Boudoir](../Rooms/Boudoir.md) mentions that Daniel is my father, and that I'm Herbert's nephew.
@@ -55,6 +58,7 @@ aliases:
 - Also mentioned in the [Commissary](../Rooms/Commissary.md).
 - Also mentioned in the [Hovel](../Rooms/Hovel.md).
 - Also mentioned in the [Study](../Rooms/Study.md).
+- Also mentioned in the Apple Orchard [Outside](Outside.md).
 ### M. Lowry
 - Who is this?
 - A note has been written to Herbert in the [Parlor Room](../Rooms/Parlor%20Room.md)
@@ -68,6 +72,9 @@ aliases:
 - The groundskeeper.
 - Has a notice of termination in the [Hovel](../Rooms/Hovel.md).
 - Stole the Baron's mail!
+
+### Robert Nogula
+- Groundskeeper? Mentioned [Outside](Outside.md).
 
 ### K. L.
 - Mentioned in the [Bedroom & Guest Bedroom](../Rooms/Bedroom%20&%20Guest%20Bedroom.md)
@@ -98,11 +105,10 @@ aliases:
 ### Orinda Aries
 - Royalty of some sort
 - Mentioned in the [Archives](../Rooms/Archives.md)
+- Has a statue in the Apple Orchard [Outside](Outside.md).
 
 ### Hartley?
 - Mentioned in the [Darkroom](../Rooms/Darkroom.md).
-
-
 ### Randolph M.
 - Mentioned in the [Laboratory](../Rooms/Laboratory.md)
 - Maybe is Moore?
@@ -110,3 +116,7 @@ aliases:
 ### Kimberly Thompson
 - Mentioned in the [Laboratory](../Rooms/Laboratory.md).
 - Checked out the Drafting Strategy book in the [Library](../Rooms/Library.md).
+
+### Courtney
+- Herbert's Niece? She's not on the family tree though.
+- Mentioned in the note in the [Shelter](../Rooms/Shelter.md).

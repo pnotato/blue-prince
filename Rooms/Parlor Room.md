@@ -4,10 +4,12 @@ tags:
   - games/blue-prince/rooms
   - games/blue-prince/rooms/blueprint
   - games/blue-prince/rooms/puzzle
+  - games/blue-prince/observations/chess
 ---
 ![](Attachments/Pasted%20image%2020260323224955.png)
 
 ![](Attachments/Screenshot%202026-03-22%20at%2012.26.16%20AM.png)
+- Contains a pawn
 ## Day 1
 
 Blue Box: This box is blue (True)
@@ -113,6 +115,14 @@ Black Box: The box that claims to be the black box has the gems.
 
 **Reasoning**: Blue and white are False. Black is true.
 ### Day 12
+
+Blue Box: This box is the white box
+White Box: This box is the black box
+Black Box: The blue box contains the gems.
+
+**Reasoning**:  Blue and white are false, thus black is true.
+
+### Day 13
 
 Blue Box:
 White Box:

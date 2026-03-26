@@ -6,8 +6,8 @@ tags:
   - games/blue-prince/rooms/blueprint
   - games/blue-prince/rooms/tomorrow
 ---
-![](Pasted%20image%2020260325214525.png)
-![](Pasted%20image%2020260325213654.png)
+![](Attachments/Pasted%20image%2020260325214525.png)
+![](Attachments/Pasted%20image%2020260325213654.png)
 - A message from [Daniel](../Theories/People.md)?
 - Address of the Manor is here
 - [Synka](../Theories/Synka.md) is also mentioned quite a bit in this room.
@@ -80,11 +80,11 @@ your time each day playing Dirigiblocks!
 
 - Curious about what I remember? From 7 years ago?
 
-![](Pasted%20image%2020260325214238.png)
+![](Attachments/Pasted%20image%2020260325214238.png)
 
 - I'm assuming this is not a red memo.
 - Using the magnifying glass: Did they ever prove he was the one who stole the baron's mail?
 
-![](Pasted%20image%2020260325214323.png)
+![](Attachments/Pasted%20image%2020260325214323.png)
 
 - Labelled Royal Mail
