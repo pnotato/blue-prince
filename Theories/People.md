@@ -11,11 +11,15 @@ aliases:
   - Mr. Revane
   - Mrs. Babbage
   - Caleb Manning
+  - Clara Epsen
 ---
+![](Attachments/Pasted%20image%2020260325223244.png)
+- Found in the [Root Cellar](../Rooms/Root%20Cellar.md).
+
 ### Who Am I?
 -  I'm Simon P. Jones, Herbert S. Sinclair's Nephew
 - Red prince and love of the color red
-- I'm an alligator. The letter in the [Mail Room](Mail%20Room.md) says so.
+- I'm an alligator. The letter in the [Mail Room](../Rooms/Mail%20Room.md) says so.
 
 ### Baron Herbert S. Sinclair
 - Mentioned in countless rooms
@@ -56,11 +60,11 @@ aliases:
 - A note has been written to Herbert in the [Parlor Room](../Rooms/Parlor%20Room.md)
 
 ### Clara Epsen
-- Mentioned in the [Hallway](../Rooms/Hallway.md).
+- Mentioned in the [West Wing Hall](../Rooms/West%20Wing%20Hall%20&%20East%20Wing%20Hall.md).
 - Mentioned in the [Schoolhouse](../Rooms/Schoolhouse.md)
 
 ### Mr. Revane
-- Danny Revane, mentioned in the [Mail Room](Mail%20Room.md).
+- Danny Revane, mentioned in the [Mail Room](../Rooms/Mail%20Room.md).
 - The groundskeeper.
 - Has a notice of termination in the [Hovel](../Rooms/Hovel.md).
 - Stole the Baron's mail!
@@ -97,3 +101,12 @@ aliases:
 
 ### Hartley?
 - Mentioned in the [Darkroom](../Rooms/Darkroom.md).
+
+
+### Randolph M.
+- Mentioned in the [Laboratory](../Rooms/Laboratory.md)
+- Maybe is Moore?
+
+### Kimberly Thompson
+- Mentioned in the [Laboratory](../Rooms/Laboratory.md).
+- Checked out the Drafting Strategy book in the [Library](../Rooms/Library.md).

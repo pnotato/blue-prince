@@ -13,6 +13,10 @@ tags:
 ### Print Notes
 
 ![](Attachments/Pasted%20image%2020260325215905.png)
+- [Clara Epsen](People.md)??
+- Also in the [Walk-in Closet](Walk-in%20Closet.md)
+
+
 ```
 print notes
 

@@ -14,8 +14,13 @@ tags:
 
 ### Usage
 
-- The [Mail Room](../Theories/Mail%20Room.md) provides this handy instruction manual
+- The [Mail Room](Mail%20Room.md) provides this handy instruction manual
 
 ![](Attachments/Pasted%20image%2020260325214138.png)
 
 - The rest of the info is probably in [Security](Security.md)?
+
+- The book in the [Library](Library.md) gives the following tips:
+	- [Garage](Garage.md): Powers garage door and gives West path access
+	- [Darkroom](Darkroom.md): Turns lights back on after blowing a fuse
+	- [[Gymnasium]]: Turns lights off to prevent step loss.

@@ -25,3 +25,10 @@ tags:
 
 
 **Reddington**
+
+**Drafting Strategy**:
+
+![](Attachments/Pasted%20image%2020260325230632.png)![](Attachments/Pasted%20image%2020260325230812.png)
+![](Attachments/Pasted%20image%2020260325230932.png)
+![](Attachments/Pasted%20image%2020260325230952.png)
+![](Attachments/Pasted%20image%2020260325231641.png)
