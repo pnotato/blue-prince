@@ -38,3 +38,7 @@ tags:
 ![](Attachments/Pasted%20image%2020260325220837.png)
 - Answers if anyone is watching me.
 - I haven't seen another [Rumpus Room](Rooms/Rumpus%20Room.md) since?
+
+### Day 11
+![](Attachments/Pasted%20image%2020260325235432.png)
+- I spent like an hour on this

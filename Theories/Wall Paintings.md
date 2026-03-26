@@ -5,7 +5,7 @@ tags:
 aliases:
   - Painting
 ---
-![Paintings.excalidraw](Paintings.excalidraw.md)
+![Paintings.excalidraw](Attachments/Paintings.excalidraw.md)
 s
 - A Streamer mentioned that there’s lots of math in this game, such as tie time or lock clock?
 - So far, they seem to be words missing a letter.

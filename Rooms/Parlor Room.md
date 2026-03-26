@@ -105,8 +105,14 @@ White Box: The gems are in this box
 Black Box: The gems are on the floor
 
 **Reasoning**: Black and Blue are false. White is true.
-
 ### Day 11
+
+Blue Box: This box is the Black box
+White Box: This box is the Blue box
+Black Box: The box that claims to be the black box has the gems.
+
+**Reasoning**: Blue and white are False. Black is true.
+### Day 12
 
 Blue Box:
 White Box:

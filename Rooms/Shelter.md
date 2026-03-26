@@ -6,6 +6,7 @@ tags:
   - games/blue-prince/rooms/outer-room
   - games/blue-prince/rooms/dead-end
   - games/blue-prince/observations/safe
+  - games/blue-prince/observations/terminal
 ---
 ![](Attachments/Pasted%20image%2020260325205917.png)
 
