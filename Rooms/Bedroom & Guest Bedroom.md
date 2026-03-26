@@ -26,3 +26,4 @@ tags:
 
 ![](Attachments/Pasted%20image%2020260324173622.png)
 - Who is this?
+- With the magnifying glass, seems like she's wearing a moon necklace. Another such symbol found in the [Secret Garden](Secret%20Garden.md).

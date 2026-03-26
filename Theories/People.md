@@ -15,6 +15,7 @@ aliases:
 ### Who Am I?
 -  I'm Simon P. Jones, Herbert S. Sinclair's Nephew
 - Red prince and love of the color red
+- I'm an alligator. The letter in the [Mail Room](Mail%20Room.md) says so.
 
 ### Baron Herbert S. Sinclair
 - Mentioned in countless rooms
@@ -59,8 +60,10 @@ aliases:
 - Mentioned in the [Schoolhouse](../Rooms/Schoolhouse.md)
 
 ### Mr. Revane
+- Danny Revane, mentioned in the [Mail Room](Mail%20Room.md).
 - The groundskeeper.
 - Has a notice of termination in the [Hovel](../Rooms/Hovel.md).
+- Stole the Baron's mail!
 
 ### K. L.
 - Mentioned in the [Bedroom & Guest Bedroom](../Rooms/Bedroom%20&%20Guest%20Bedroom.md)
@@ -91,3 +94,6 @@ aliases:
 ### Orinda Aries
 - Royalty of some sort
 - Mentioned in the [Archives](../Rooms/Archives.md)
+
+### Hartley?
+- Mentioned in the [Darkroom](../Rooms/Darkroom.md).

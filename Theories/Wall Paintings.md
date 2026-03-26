@@ -5,8 +5,8 @@ tags:
 aliases:
   - Painting
 ---
-![Paintings.excalidraw](../../../../Excalidraw/Paintings.excalidraw.md)
-
+![Paintings.excalidraw](Paintings.excalidraw.md)
+s
 - A Streamer mentioned that there’s lots of math in this game, such as tie time or lock clock?
 - So far, they seem to be words missing a letter.
 - Are they consistent between days?
@@ -26,7 +26,7 @@ aliases:
 	-  Day 3: This was in the [Den](../Rooms/Den.md).
 - In the [Den](../Rooms/Den.md): Bat and Bath
 - In the [Drawing Room](../Rooms/Drawing%20Room.md): Clock and Lock
-- In the [[Nook]]: Road and Rod
+- In the [Nook](../Rooms/Nook.md): Road and Rod
 - In the [Pantry](../Rooms/Pantry.md): Stage and Sage
 - In the [Bedroom & Guest Bedroom](../Rooms/Bedroom%20&%20Guest%20Bedroom.md): Pea and Peak
 - In the [East Wing Hall](../Rooms/West%20Wing%20Hall%20&%20East%20Wing%20Hall.md): Car and Cart
