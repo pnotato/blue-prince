@@ -7,13 +7,16 @@ tags:
 - Probably only useful if you have a [Shelter](Shelter.md) or [Utility Closet](Utility%20Closet.md).
 
 ![](Attachments/Pasted%20image%2020260325215712.png)
+- I should probably look [Outside](../Theories/Outside.md) for this?
+- Opening this gate unlocks the permenant Apple Orchard!
+
 ![](Attachments/Pasted%20image%2020260325215729.png)
 - [Synka](../Theories/Synka.md) Camera!
 
 ### Print Notes
 
 ![](Attachments/Pasted%20image%2020260325215905.png)
-- [Clara Epsen](People.md)??
+- [Clara Epsen](../Theories/People.md)??
 - Also in the [Walk-in Closet](Walk-in%20Closet.md)
 
 

@@ -10,4 +10,7 @@ tags:
 - Was Caleb Manning the last person to see Marion?
 
 ![](Attachments/Pasted%20image%2020260324173754.png)
+![](Attachments/Pasted%20image%2020260326131140.png)
+- A swan necklace? Like SWANSONG? See [Security](Security.md).
+
 ![](Attachments/Pasted%20image%2020260324175026.png)
