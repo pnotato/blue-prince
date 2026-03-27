@@ -41,6 +41,10 @@ aliases:
 - Photo in the [Archives](../Rooms/Archives.md) and in the [Bedroom & Guest Bedroom](../Rooms/Bedroom%20&%20Guest%20Bedroom.md)?
 - Mentioned in the [Morning Room](../Rooms/Morning%20Room.md)
 
+### Simon H. Sincliar
+- Same as Daniel? Herbert's brother?
+- Clara Epsen's Husband
+- Found in the [Office](Office.md).
 ### Daniel
 -  The [Boudoir](../Rooms/Boudoir.md) mentions that Daniel is my father, and that I'm Herbert's nephew.
 
@@ -66,6 +70,7 @@ aliases:
 ### Clara Epsen
 - Mentioned in the [West Wing Hall](../Rooms/West%20Wing%20Hall%20&%20East%20Wing%20Hall.md).
 - Mentioned in the [Schoolhouse](../Rooms/Schoolhouse.md)
+- Picture in the [Walk-in Closet](Walk-in%20Closet.md) and [Office](Office.md).
 
 ### Mr. Revane
 - Danny Revane, mentioned in the [Mail Room](../Rooms/Mail%20Room.md).
@@ -109,6 +114,7 @@ aliases:
 
 ### Hartley?
 - Mentioned in the [Darkroom](../Rooms/Darkroom.md).
+- Mentioned in one of the emails in the [Office](Office.md).
 ### Randolph M.
 - Mentioned in the [Laboratory](../Rooms/Laboratory.md)
 - Maybe is Moore?
@@ -120,3 +126,6 @@ aliases:
 ### Courtney
 - Herbert's Niece? She's not on the family tree though.
 - Mentioned in the note in the [Shelter](../Rooms/Shelter.md).
+
+### Detective Bon Margle
+- Checked out various books in the [Library](Library.md).

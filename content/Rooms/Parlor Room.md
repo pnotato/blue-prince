@@ -131,6 +131,14 @@ Black Box: The blue box is empty
 
 ### Day 14
 
+Blue Box: There are four boxes in this room
+White Box: There is only one box in this room
+Black Box: The gems are in the true box
+
+**Reasoning**: Blue and White are false. Black is true.
+
+### Day 15
+
 Blue Box:
 White Box:
 Black Box:

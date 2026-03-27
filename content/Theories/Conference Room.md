@@ -3,6 +3,7 @@ tags:
   - rooms
   - rooms/spread
   - rooms/blueprint
+  - observations/red-memo
 ---
 ```
 SPREADING ITEMS
@@ -18,3 +19,6 @@ HOWEVER, IF TOU HAVE A CONFERENCE ROOM,
 SPREAD ITEMS ARE GATHERED IN
 THAT ROOM INSTEAD.
 ```
+
+![](Pasted%20image%2020260326215826.png)
+- This can't be right :(
