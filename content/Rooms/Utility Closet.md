@@ -18,7 +18,7 @@ tags:
 ![](Attachments/Pasted%20image%2020260325214138.png)
 
 - The rest of the info is probably in [Security](Security.md)?
-- Other info is found in an email in the [Office](Office.md)!
+- Other info is found in an email in the [Office](../Theories/Office.md)!
 
 - The book in the [Library](Library.md) gives the following tips:
 	- [Garage](Garage.md): Powers garage door and gives West path access

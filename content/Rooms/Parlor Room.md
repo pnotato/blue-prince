@@ -139,6 +139,14 @@ Black Box: The gems are in the true box
 
 ### Day 15
 
+Blue Box: There are three boxes in this room
+White Box: Two boxes in this room are empty
+Black Box: This box is one of the two empty boxes
+
+	**Reasoning**: Blue is obviously true. White is true. Black is not. 
+
+### Day 15
+
 Blue Box:
 White Box:
 Black Box:

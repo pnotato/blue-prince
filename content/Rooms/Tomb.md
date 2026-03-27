@@ -2,7 +2,7 @@
 tags:
   - rooms
 ---
-[Herbert](People.md)'s letter:
+[Herbert](../Theories/People.md)'s letter:
 
 ```
 1
@@ -77,6 +77,6 @@ Herbert S. Sinclair
 
 - Do I have to have a [[shrine]] on the last day?
 
-![](Pasted%20image%2020260326213932.png)
+![](Attachments/Pasted%20image%2020260326213932.png)
 
-![](Pasted%20image%2020260326213946.png)
+![](Attachments/Pasted%20image%2020260326213946.png)

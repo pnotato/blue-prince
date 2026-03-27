@@ -65,7 +65,7 @@ BE LOCKED AS YOU PROGRESS NORTH.
 
 ![](Attachments/Pasted%20image%2020260325220252.png)
 
-**Electronic Mail**: I don't have access in this room. Needs to be accessed from the terminal in the [[Office]].
-**Terminal**: I can connect to the computer in the [[Office]], [Shelter](Shelter.md), and [Laboratory](Laboratory.md).
+**Electronic Mail**: I don't have access in this room. Needs to be accessed from the terminal in the [Office](../Theories/Office.md).
+**Terminal**: I can connect to the computer in the [Office](../Theories/Office.md), [Shelter](Shelter.md), and [Laboratory](Laboratory.md).
 **Staff Services**: Seems like all the staff are on leave. See [Maid's Chamber](Maid's%20Chamber.md)? Also mentions [Mrs. Babbage](../Theories/People.md)
 **Data Transfers**: transfers from [Synka](../Theories/Synka.md) are disabled?

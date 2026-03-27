@@ -33,7 +33,7 @@ aliases:
 	- She mentions her son got her to start writing
 - Her debut book is "Red Prince", based on her son and his love of the color red.
 	- Red Prince is met with skepticism, with people describing it as a thinly veiled political critique of the royalist party and their **unwavering blind loyalty to the throne**.
-	- Found in the [Nursery](Nursery.md).
+	- Found in the [Nursery](../Rooms/Nursery.md).
 - The [Boudoir](../Rooms/Boudoir.md) mentions Marion's "Disappearance".
 	- Seems that [Herbert](People.md) stooped to the Royal Court to hush up this incident.
 	- She gave up her family/fortune?
@@ -70,7 +70,7 @@ aliases:
 ### Clara Epsen
 - Mentioned in the [West Wing Hall](../Rooms/West%20Wing%20Hall%20&%20East%20Wing%20Hall.md).
 - Mentioned in the [Schoolhouse](../Rooms/Schoolhouse.md)
-- Picture in the [Walk-in Closet](Walk-in%20Closet.md) and [Office](Office.md).
+- Picture in the [Walk-in Closet](../Rooms/Walk-in%20Closet.md) and [Office](Office.md).
 
 ### Mr. Revane
 - Danny Revane, mentioned in the [Mail Room](../Rooms/Mail%20Room.md).
@@ -128,4 +128,4 @@ aliases:
 - Mentioned in the note in the [Shelter](../Rooms/Shelter.md).
 
 ### Detective Bon Margle
-- Checked out various books in the [Library](Library.md).
+- Checked out various books in the [Library](../Rooms/Library.md).

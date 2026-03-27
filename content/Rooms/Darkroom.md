@@ -33,7 +33,7 @@ too dark so keep an eye on that.
 ```
 
 ![](Attachments/Pasted%20image%2020260325215926.png)
-- Probably the [[Office]]?
+- Probably the [Office](../Theories/Office.md)?
 
 ![](Attachments/Pasted%20image%2020260325215946.png)
 

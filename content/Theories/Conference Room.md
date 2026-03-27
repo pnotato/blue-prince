@@ -20,5 +20,5 @@ SPREAD ITEMS ARE GATHERED IN
 THAT ROOM INSTEAD.
 ```
 
-![](Pasted%20image%2020260326215826.png)
+![](Attachments/Pasted%20image%2020260326215826.png)
 - This can't be right :(

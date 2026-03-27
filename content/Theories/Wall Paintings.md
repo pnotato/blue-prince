@@ -37,7 +37,7 @@ In the entrance hall there seems to be these 2 paintings as well. What they are,
 ![](Attachments/Pasted%20image%2020260323204700.png)
 ### Notes
 
-- Does [Spare Room](Spare%20Room.md) not have paintings?
+- Does [Spare Room](../Rooms/Spare%20Room.md) not have paintings?
 - Does [[Passageway]] not have paintings?
 - Does [Chapel](../Rooms/Chapel.md) not have paintings (or all red rooms I guess)?
 - Do #rooms/green-room not have paintings?

@@ -33,19 +33,19 @@ tags:
 ![](Attachments/Pasted%20image%2020260325231641.png)
 
 **The History of Orindia**:
-- Written by [Caleb Manning](People.md).
+- Written by [Caleb Manning](../Theories/People.md).
 
-![](Pasted%20image%2020260326214626.png)
-![](Pasted%20image%2020260326214700.png)
+![](Attachments/Pasted%20image%2020260326214626.png)
+![](Attachments/Pasted%20image%2020260326214700.png)
 *Oh my god it's the Epstein Files*
 
-![](Pasted%20image%2020260326214805.png)
-![](Pasted%20image%2020260326214811.png)
-![](Pasted%20image%2020260326214818.png)
+![](Attachments/Pasted%20image%2020260326214805.png)
+![](Attachments/Pasted%20image%2020260326214811.png)
+![](Attachments/Pasted%20image%2020260326214818.png)
 - The [Classroom](Classroom.md) has symbols relating to this in Grade 1!
-![](Pasted%20image%2020260326215015.png)
-![](Pasted%20image%2020260326215023.png)
-![](Pasted%20image%2020260326215035.png)
+![](Attachments/Pasted%20image%2020260326215015.png)
+![](Attachments/Pasted%20image%2020260326215023.png)
+![](Attachments/Pasted%20image%2020260326215035.png)
 
 ### The Detective's Note
 
