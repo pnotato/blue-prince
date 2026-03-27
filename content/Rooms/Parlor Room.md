@@ -123,6 +123,14 @@ Black Box: The blue box contains the gems.
 
 ### Day 13
 
+Blue Box: This is the blue box
+White Box: The blue box is true
+Black Box: The blue box is empty
+
+**Reasoning**: Blue and white are true. Black is false.
+
+### Day 14
+
 Blue Box:
 White Box:
 Black Box:

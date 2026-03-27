@@ -1,6 +1,6 @@
 ---
 tags:
   - rooms
-  - rooms/red-room
 ---
-idk
+
+

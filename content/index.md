@@ -52,3 +52,8 @@ My notes while playing the puzzle game [Blue Prince](https://store.steampowered.
 ### Day 12
 
 ![](Attachments/Pasted%20image%2020260326131329.png)
+
+### Day 13
+
+![](Pasted%20image%2020260326213250.png)
+

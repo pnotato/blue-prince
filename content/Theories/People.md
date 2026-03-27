@@ -31,8 +31,9 @@ aliases:
 - The [Archives](../Rooms/Archives.md) mention that Marion's a famous writer, with a pen name "Marigold". 
 	- Marion wrote a book called "Swim Bird"
 	- She mentions her son got her to start writing
-- Her debut book is "Red Prince", based on her son and his love of the colour red.
+- Her debut book is "Red Prince", based on her son and his love of the color red.
 	- Red Prince is met with skepticism, with people describing it as a thinly veiled political critique of the royalist party and their **unwavering blind loyalty to the throne**.
+	- Found in the [Nursery](Nursery.md).
 - The [Boudoir](../Rooms/Boudoir.md) mentions Marion's "Disappearance".
 	- Seems that [Herbert](People.md) stooped to the Royal Court to hush up this incident.
 	- She gave up her family/fortune?
