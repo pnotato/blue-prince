@@ -89,3 +89,8 @@ My notes while playing the puzzle game [Blue Prince](https://store.steampowered.
 ### Day 21
 
 ![](Attachments/Pasted%20image%2020260328011135.png)
+
+### Day 22
+
+![](Pasted%20image%2020260328021041.png)
+*Beeg day*

@@ -196,3 +196,12 @@ Black Box: The statement on the white box is true
 
 **Reasoning**: 
 - Gems in white
+
+### Day 20
+
+Blue Box: Gems are in a false box
+White Box: Gems are in a false box
+Black Box: One of the other boxes is false
+
+**Reasoning**: 
+- Gems in white

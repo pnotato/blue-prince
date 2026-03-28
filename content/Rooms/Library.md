@@ -93,3 +93,7 @@ Detective Bon Margle
 REDGUARD
 ```
 
+**Pump Book**:
+- Probably important for [Pump Room](Pump%20Room.md)
+
+![](Pasted%20image%2020260328014517.png)
