@@ -152,3 +152,11 @@ White Box:
 Black Box:
 
 **Reasoning**: 
+
+### Day 15
+
+Blue Box: Only one box is true
+White Box: Only one box contains gems
+Black Box: The gems are in the white box
+
+**Reasoning**: White is true, thus meaning blue is false. There are two true boxes, meaning black is true.

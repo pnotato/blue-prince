@@ -13,3 +13,11 @@ tags:
 
 ![](Attachments/Pasted%20image%2020260323212308.png)
 - What do these glass windows mean?
+- Maybe it's the solution to the [Tomb](Tomb.md)?
+	1. Gardener (hoe)
+	2. Chef
+	3. Farmer (pitchfork)
+	4. Steampunker (puffy looking thing)
+	5. Maid (Broom)
+	6. Caddy? (In the image, a club?)
+	7. Queen (Scepter)

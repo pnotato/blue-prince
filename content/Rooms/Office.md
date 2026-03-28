@@ -6,14 +6,14 @@ tags:
   - observations/chess
 ---
 
-![](Attachments/Pasted%20image%2020260326215941.png)
-- [Greenhouse](../Rooms/Greenhouse.md) lever, and an east and west lever?
+![](Pasted%20image%2020260326215941.png)
+- [Greenhouse](Greenhouse.md) lever, and an east and west lever?
 - Also I can view emails here?
 	- A pointing left arrow is seen here
 	- A king is here.
 
-![](Attachments/Pasted%20image%2020260326220045.png)
-- Same lady as the [Walk-in Closet](../Rooms/Walk-in%20Closet.md)?
+![](Pasted%20image%2020260326220045.png)
+- Same lady as the [Walk-in Closet](Walk-in%20Closet.md)?
 - Simon H Sinclair and [Clara Epsen](People.md)? 
 
 ### Emails
@@ -53,7 +53,7 @@ Thanks for the due diligence on this project.
 
 DATE: OCT. 8 1993
 ```
-- The [Utility Closet](../Rooms/Utility%20Closet.md)!
+- The [Utility Closet](Utility%20Closet.md)!
 
 ```
 DATE: OCT. 7 1993

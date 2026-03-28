@@ -80,3 +80,14 @@ Herbert S. Sinclair
 ![](Attachments/Pasted%20image%2020260326213932.png)
 
 ![](Attachments/Pasted%20image%2020260326213946.png)
+
+- The statues in the tomb can raise/lower the thing they're holding. What does this solve?
+	- Oh, the [Chapel](Chapel.md) has glass windows, maybe that's the order I need to push them in.
+- The candles seem to be the same across days...
+
+![](Pasted%20image%2020260327211520.png)
+- Ah, the [Chapel](Chapel.md) was the right answer.
+
+![](Pasted%20image%2020260327211538.png)
+![](Pasted%20image%2020260327211621.png)
+
