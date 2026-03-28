@@ -1,6 +1,9 @@
 ---
 tags:
   - rooms
+aliases:
+  - orchard
+  - gemstone cavern
 ---
 ![](Attachments/Pasted%20image%2020260326115406.png)
 - These are probably the white trees mentioned in the [Music Sheets](Music%20Sheets.md).

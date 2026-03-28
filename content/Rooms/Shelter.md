@@ -23,7 +23,10 @@ tags:
 	- Answer: Look in the [Library](Library.md) for a specific day, or the [Maid's Chamber](Maid's%20Chamber.md) for the first day (November 6th)
 
 - 0.05 uSv. If I can make the house radioactive somehow, all the doors will suddenly unlock.
-- There's a weird painting in this room
+	- On day 24, seems like the radiation has increased as per the effects of the [Laboratory](Laboratory.md).
+	- Using the lab doesn't seem to immediately make it more radioactive... Strange.
+	
+- There's a weird painting in this room. Related to the Reddington images in the [Library](Library.md)?
 
 - Time probably goes in a pattern between days. Take note of the times in [Den](Den.md) or [Drawing Room](Drawing%20Room.md) next days.
 - Really OP as it stops the effect of the [Darkroom](Darkroom.md).

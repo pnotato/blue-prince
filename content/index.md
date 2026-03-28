@@ -99,3 +99,8 @@ My notes while playing the puzzle game [Blue Prince](https://store.steampowered.
 
 ![](Attachments/Pasted%20image%2020260328150347.png)
 *Too many keycard locked doors*
+
+### Day 24
+
+![](Pasted%20image%2020260328162424.png)
+*Antechamber*

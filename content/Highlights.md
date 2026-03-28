@@ -49,3 +49,7 @@
 *Probably the best I've done, but still couldn't open the [The Antechamber](Theories/The%20Antechamber.md)*.
 
 ![](Attachments/Pasted%20image%2020260327220613.png)
+
+### Day 24
+
+![](Pasted%20image%2020260328153256.png)

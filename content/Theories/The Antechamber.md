@@ -12,3 +12,8 @@ tags:
 
 - This is consistent with the Red memo in [Security](../Rooms/Security.md). So levers are needed to access the room?
 - There was a lever-looking device in the [Greenhouse](../Rooms/Greenhouse.md), maybe that's related?
+
+![](Pasted%20image%2020260328154001.png)
+
+- Made it into the antechamber!
+- Now I need to make it back to the basement.

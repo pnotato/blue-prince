@@ -206,7 +206,7 @@ Black Box: One of the other boxes is false
 **Reasoning**: 
 - Gems in white
 
-### Day 21
+### Day 23
 
 Blue Box: The black box is black
 White Box: The black box is true
@@ -215,3 +215,14 @@ Black Box: The black box is empty
 **Reasoning**: Blue is definitely true, meaning either white or black must be false.
 - If white is false, then that means the black box is also false. The gem is in black.
 - If black is false, then white is also false. The gem is in black.
+
+### Day 24
+
+Blue Box: The gems are in a box containing a statement with the letter B.
+White Box: The blue box is true.
+Black Box: The gems are in a box containing a statement with the letter U.
+
+**Reasoning**: 
+- If blue is true, then either white or black must be false. Blue must be true.
+- White is true. 
+- Thus, black must be false. Black and White both mention the letter U, so blue must have the gems.
