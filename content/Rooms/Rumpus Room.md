@@ -9,7 +9,7 @@ aliases:
 
 Cutscene: [https://www.youtube.com/watch?v=6x-AlamAX6E](https://www.youtube.com/watch?v=6x-AlamAX6E "https://www.youtube.com/watch?v=6x-AlamAX6E")
 
-![](Pasted%20image%2020260327222744.png)
+![](Attachments/Pasted%20image%2020260327222744.png)
 - Ruins?
 - Eight red envelopes in pedestals? From the rooms with a #observations/safe
 - A missing letter

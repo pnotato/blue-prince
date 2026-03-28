@@ -67,13 +67,17 @@ My notes while playing the puzzle game [Blue Prince](https://store.steampowered.
 
 ### Day 16
 
-![](Pasted%20image%2020260327212341.png)
-*Messed up with the [Darkroom](Darkroom.md).*  
+![](Attachments/Pasted%20image%2020260327212341.png)
+*Messed up with the [Darkroom](Rooms/Darkroom.md).*  
 
 ### Day 17
 
-![](Pasted%20image%2020260327220653.png)
+![](Attachments/Pasted%20image%2020260327220653.png)
 
 ### Day 18
 
-![](Pasted%20image%2020260327223513.png)
+![](Attachments/Pasted%20image%2020260327223513.png)
+
+### Day 19
+
+![](Attachments/Pasted%20image%2020260327230912.png)

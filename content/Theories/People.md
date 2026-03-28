@@ -45,7 +45,7 @@ aliases:
 ### Simon H. Sincliar
 - Same as Daniel? Herbert's brother?
 - Clara Epsen's Husband
-- Found in the [Office](Office.md).
+- Found in the [Office](../Rooms/Office.md).
 ### Daniel
 -  The [Boudoir](../Rooms/Boudoir.md) mentions that Daniel is my father, and that I'm Herbert's nephew.
 
@@ -71,7 +71,7 @@ aliases:
 ### Clara Epsen
 - Mentioned in the [West Wing Hall](../Rooms/West%20Wing%20Hall%20&%20East%20Wing%20Hall.md).
 - Mentioned in the [Schoolhouse](../Rooms/Schoolhouse.md)
-- Picture in the [Walk-in Closet](../Rooms/Walk-in%20Closet.md) and [Office](Office.md).
+- Picture in the [Walk-in Closet](../Rooms/Walk-in%20Closet.md) and [Office](../Rooms/Office.md).
 
 ### Mr. Revane
 - Danny Revane, mentioned in the [Mail Room](../Rooms/Mail%20Room.md).
@@ -115,16 +115,16 @@ aliases:
 
 ### Hartley?
 - Mentioned in the [Darkroom](../Rooms/Darkroom.md).
-- Mentioned in one of the emails in the [Office](Office.md).
+- Mentioned in one of the emails in the [Office](../Rooms/Office.md).
 ### Randolph M.
 - Mentioned in the [Laboratory](../Rooms/Laboratory.md)
 - Maybe is Moore?
-- Mentioned in the [Mail Room](Mail%20Room.md) letter after receiving a letter through an experiment
+- Mentioned in the [Mail Room](../Rooms/Mail%20Room.md) letter after receiving a letter through an experiment
 
 ### Kimberly Thompson
 - Mentioned in the [Laboratory](../Rooms/Laboratory.md).
 - Checked out the Drafting Strategy book in the [Library](../Rooms/Library.md).
-- Mentioned when receiving a package in the [Mail Room](Mail%20Room.md)?
+- Mentioned when receiving a package in the [Mail Room](../Rooms/Mail%20Room.md)?
 
 ### Courtney
 - Herbert's Niece? She's not on the family tree though.

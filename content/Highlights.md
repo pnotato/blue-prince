@@ -45,7 +45,7 @@
 
 ### Day 16
 
-![](Pasted%20image%2020260327220011.png)
-*Probably the best I've done, but still couldn't open the [The Antechamber](The%20Antechamber.md)*.
+![](Attachments/Pasted%20image%2020260327220011.png)
+*Probably the best I've done, but still couldn't open the [The Antechamber](Theories/The%20Antechamber.md)*.
 
-![](Pasted%20image%2020260327220613.png)
+![](Attachments/Pasted%20image%2020260327220613.png)

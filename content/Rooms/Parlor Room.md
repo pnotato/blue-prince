@@ -171,6 +171,14 @@ Black Box: The gems are in a box with a true statement
 
 ### Day 18
 
+Blue Box: The Gems are in a box with a statement
+White Box:
+Black Box: The White box does not have a statement
+
+**Reasoning**: Black is true. White is ambiguous, so blue must be false.
+
+### Day 18
+
 Blue Box:
 White Box:
 Black Box:

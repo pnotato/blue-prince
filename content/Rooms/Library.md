@@ -23,7 +23,19 @@ tags:
 - The word dare/daring is mentioned a lot.
 
 
-**Reddington**
+**Reddington**:
+
+![](Attachments/Pasted%20image%2020260327224657.png)
+![](Attachments/Pasted%20image%2020260327224734.png)
+- The image from the [Bedroom & Guest Bedroom](Bedroom%20&%20Guest%20Bedroom.md)?
+
+![](Attachments/Pasted%20image%2020260327224746.png)
+![](Attachments/Pasted%20image%2020260327224756.png)
+![](Attachments/Pasted%20image%2020260327224802.png)
+![](Attachments/Pasted%20image%2020260327224826.png)
+![](Attachments/Pasted%20image%2020260327224832.png)
+![](Attachments/Pasted%20image%2020260327224855.png)
+
 
 **Drafting Strategy**:
 

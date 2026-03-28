@@ -7,14 +7,14 @@ tags:
 ---
 
 ![](Pasted%20image%2020260326215941.png)
-- [Greenhouse](Greenhouse.md) lever, and an east and west lever to open the [The Antechamber](The%20Antechamber.md)?
+- [Greenhouse](Greenhouse.md) lever, and an east and west lever to open the [The Antechamber](../Theories/The%20Antechamber.md)?
 - Also I can view emails here?
 	- A pointing left arrow is seen here
 	- A king is here.
 
 ![](Pasted%20image%2020260326220045.png)
 - Same lady as the [Walk-in Closet](Walk-in%20Closet.md)?
-- Simon H Sinclair and [Clara Epsen](People.md)? 
+- Simon H Sinclair and [Clara Epsen](../Theories/People.md)? 
 
 ### Emails
 
@@ -35,7 +35,7 @@ electronic typewriter.
 
 SUBJECT: next week
 ```
-- [Mrs. Babbage](People.md) mention!
+- [Mrs. Babbage](../Theories/People.md) mention!
 
 ```
 RE: RE: fusebox repair
