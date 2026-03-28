@@ -6,7 +6,7 @@ tags:
 
 ### Grade 1
 
-![](Pasted%20image%2020260326204910.png)
+![](Attachments/Pasted%20image%2020260326204910.png)
 *Why do all the kids like red?*
 
 Blue: Flag, Pond
