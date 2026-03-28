@@ -143,8 +143,8 @@ too scared of chastisement to probe for the particulars for a third time!)
 ![](Attachments/Pasted%20image%2020260326120731.png)
 - A Sundial. Probably related to the clocks, again.
 
-![](Pasted%20image%2020260328020045.png)
+![](Attachments/Pasted%20image%2020260328020045.png)
 - The gemstone cavern also ignites a flame!
 
-![](Pasted%20image%2020260328020651.png)
+![](Attachments/Pasted%20image%2020260328020651.png)
 - Info in [Flames](Flames.md)
