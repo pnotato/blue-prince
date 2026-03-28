@@ -17,7 +17,7 @@ Probably another puzzle.
 According to the note in the [Library](Library.md), powers the following:
 - [Laboratory](Laboratory.md)
 - [Garage](Garage.md)
-- [[Laundry Room]]
+- [Laundry Room](Laundry%20Room.md)
 - [[Furnace]]
 - [Pump Room](Pump%20Room.md)
 
