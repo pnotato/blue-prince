@@ -13,3 +13,5 @@ What this mean
 
 Turning on the power to the garage through the [Utility Closet](Utility%20Closet.md) enables the button on the wall to open the garage!
 
+![](Pasted%20image%2020260327215308.png)
+- Found with the car keys

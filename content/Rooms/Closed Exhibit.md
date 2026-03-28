@@ -9,3 +9,5 @@ tags:
 ![](Attachments/Pasted%20image%2020260326000031.png)
 - What this puzzle
 - I solved it but i have no idea how
+
+![](Pasted%20image%2020260327214048.png)

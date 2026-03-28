@@ -11,3 +11,5 @@ tags:
 - The 5th page is in the [Greenhouse](Greenhouse.md)?
 - Seems like there are 8 total pages. 
 - Maybe the music notes mean something? I'm too lazy to check at the moment, though.
+
+![](Pasted%20image%2020260327215136.png)

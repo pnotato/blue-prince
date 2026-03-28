@@ -143,15 +143,7 @@ Blue Box: There are three boxes in this room
 White Box: Two boxes in this room are empty
 Black Box: This box is one of the two empty boxes
 
-	**Reasoning**: Blue is obviously true. White is true. Black is not. 
-
-### Day 15
-
-Blue Box:
-White Box:
-Black Box:
-
-**Reasoning**: 
+**Reasoning**: Blue is obviously true. White is true. Black is not. 
 
 ### Day 15
 
@@ -160,3 +152,19 @@ White Box: Only one box contains gems
 Black Box: The gems are in the white box
 
 **Reasoning**: White is true, thus meaning blue is false. There are two true boxes, meaning black is true.
+
+### Day 16
+
+Blue Box: The gems are in both the black and white box
+White Box: The gems are in both the blue and black box
+Black Box: The gems are not in the blue or white box
+
+**Reasoning**: Black is true, blue and white must be false.
+
+### Day 17
+
+Blue Box:
+White Box:
+Black Box:
+
+**Reasoning**: 

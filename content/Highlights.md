@@ -42,3 +42,10 @@
 ### Day 12
 ![](Attachments/Pasted%20image%2020260326130826.png)
 *So wealthy but I ran out of steps*
+
+### Day 16
+
+![](Pasted%20image%2020260327220011.png)
+*Probably the best I've done, but still couldn't open the [The Antechamber](The%20Antechamber.md)*.
+
+![](Pasted%20image%2020260327220613.png)
