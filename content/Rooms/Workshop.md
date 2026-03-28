@@ -8,3 +8,4 @@ tags:
 - Another on of the [Music Sheets](../Theories/Music%20Sheets.md)!
 - There's a rock with an M
 	- On day 16 it changed to an E. Strange?
+	- On day 20 it's an O?

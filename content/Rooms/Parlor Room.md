@@ -177,10 +177,13 @@ Black Box: The White box does not have a statement
 
 **Reasoning**: Black is true. White is ambiguous, so blue must be false.
 
-### Day 18
+### Day 20
 
-Blue Box:
-White Box:
-Black Box:
+Blue Box: The other two boxes are true
+White Box: The other two boxes are blue
+Black Box: The other two boxes are empty
 
 **Reasoning**: 
+- If blue is true, other two are true. Thus blue must be false.
+- White is clearly false
+- Black must be the true box
