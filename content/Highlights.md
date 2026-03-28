@@ -52,4 +52,4 @@
 
 ### Day 24
 
-![](Pasted%20image%2020260328153256.png)
+![](Attachments/Pasted%20image%2020260328153256.png)

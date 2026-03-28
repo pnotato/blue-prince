@@ -226,3 +226,16 @@ Black Box: The gems are in a box containing a statement with the letter U.
 - If blue is true, then either white or black must be false. Blue must be true.
 - White is true. 
 - Thus, black must be false. Black and White both mention the letter U, so blue must have the gems.
+
+### Day 25
+
+Blue Box: The gems are in a box with the word blue on it.
+White Box: The blue box is true.
+Black Box: The gems are in a box that are actually blue
+
+**Reasoning**: 
+- Blue is True: both blue and black say blue, this cannot be, blue is false.
+- White is ambigious
+- If blue is false
+
+**Answer**: The gems are in white, since blue is false. First time I've gotten a parlor room wrong sadge

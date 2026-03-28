@@ -13,7 +13,16 @@ tags:
 - This is consistent with the Red memo in [Security](../Rooms/Security.md). So levers are needed to access the room?
 - There was a lever-looking device in the [Greenhouse](../Rooms/Greenhouse.md), maybe that's related?
 
-![](Pasted%20image%2020260328154001.png)
+![](Attachments/Pasted%20image%2020260328154001.png)
 
 - Made it into the antechamber!
 - Now I need to make it back to the basement.
+
+![](../Rooms/Attachments/Pasted%20image%2020260328154946.png)
+- As per [The Foundation](../Rooms/The%20Foundation.md) basement, the antechamber can be opened by:
+	- [Secret Garden](../Rooms/Secret%20Garden.md)
+	- [Greenhouse](../Rooms/Greenhouse.md)
+	- [Great Hall](../Rooms/Great%20Hall.md)
+	- [Underground](The%20Reservoir,%20Abandoned%20Mine,%20and%20Underground.md)
+
+- As by the results on day 25, seems like the antechamber has to be opened each day.

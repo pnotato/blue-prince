@@ -14,9 +14,9 @@ tags:
 ![](Attachments/Pasted%20image%2020260328015528.png)
 
 - A Safe!
-- As per the [Wall Paintings](Wall%20Paintings.md), IF WE COUNT SMALL GATES, another word for stride is gaits?
+- As per the [Wall Paintings](../Theories/Wall%20Paintings.md), IF WE COUNT SMALL GATES, another word for stride is gaits?
 - The note here is labelled six.
-	- A letter to [Marion](People.md) from [Herbert](People.md)? So he's aware she's alive.
+	- A letter to [Marion](../Theories/People.md) from [Herbert](../Theories/People.md)? So he's aware she's alive.
 
 ```
 1
@@ -76,5 +76,5 @@ We may yeł meet again,
 
 Your Undle Herbert
 ```
-- I reunited with [Marion](People.md) before my 10th birthday?
+- I reunited with [Marion](../Theories/People.md) before my 10th birthday?
 - Buried under red soil? Under red flags?

@@ -16,7 +16,7 @@ aliases:
 
 ### From the Basement Side
 
-![](Pasted%20image%2020260328155717.png)
+![](Attachments/Pasted%20image%2020260328155717.png)
 
-![](Pasted%20image%2020260328155833.png)
+![](Attachments/Pasted%20image%2020260328155833.png)
 - The full map, same as what we found [Outside](Outside.md).

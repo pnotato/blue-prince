@@ -102,5 +102,9 @@ My notes while playing the puzzle game [Blue Prince](https://store.steampowered.
 
 ### Day 24
 
-![](Pasted%20image%2020260328162424.png)
+![](Attachments/Pasted%20image%2020260328162424.png)
 *Antechamber*
+
+### Day 25
+
+![](Pasted%20image%2020260328164654.png)
