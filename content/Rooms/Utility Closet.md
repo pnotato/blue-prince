@@ -25,5 +25,5 @@ tags:
 	- [Darkroom](Darkroom.md): Turns lights back on after blowing a fuse
 	- [[Gymnasium]]: Turns lights off to prevent step loss.
 
-![](Pasted%20image%2020260328003755.png)
+![](Attachments/Pasted%20image%2020260328003755.png)
 - A second utility closet!

@@ -187,3 +187,12 @@ Black Box: The other two boxes are empty
 - If blue is true, other two are true. Thus blue must be false.
 - White is clearly false
 - Black must be the true box
+
+### Day 20
+
+Blue Box: The gems are in the white box
+White Box: Statements with the word white are true
+Black Box: The statement on the white box is true
+
+**Reasoning**: 
+- Gems in white
