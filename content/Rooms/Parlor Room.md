@@ -163,6 +163,14 @@ Black Box: The gems are not in the blue or white box
 
 ### Day 17
 
+Blue Box: Two of these statements are true
+White Box: The statement on the blue box is true.
+Black Box: The gems are in a box with a true statement
+
+**Reasoning**: Blue and white are true, black is false.
+
+### Day 18
+
 Blue Box:
 White Box:
 Black Box:

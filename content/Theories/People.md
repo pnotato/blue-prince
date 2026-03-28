@@ -11,6 +11,7 @@ aliases:
   - Mrs. Babbage
   - Caleb Manning
   - Clara Epsen
+  - Randolph
 ---
 ![](Attachments/Pasted%20image%2020260325223244.png)
 - Found in the [Root Cellar](../Rooms/Root%20Cellar.md).
@@ -118,10 +119,12 @@ aliases:
 ### Randolph M.
 - Mentioned in the [Laboratory](../Rooms/Laboratory.md)
 - Maybe is Moore?
+- Mentioned in the [Mail Room](Mail%20Room.md) letter after receiving a letter through an experiment
 
 ### Kimberly Thompson
 - Mentioned in the [Laboratory](../Rooms/Laboratory.md).
 - Checked out the Drafting Strategy book in the [Library](../Rooms/Library.md).
+- Mentioned when receiving a package in the [Mail Room](Mail%20Room.md)?
 
 ### Courtney
 - Herbert's Niece? She's not on the family tree though.

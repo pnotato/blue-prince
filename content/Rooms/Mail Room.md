@@ -87,3 +87,8 @@ your time each day playing Dirigiblocks!
 ![](Attachments/Pasted%20image%2020260325214323.png)
 
 - Labelled Royal Mail
+
+![](Pasted%20image%2020260327221934.png)
+- [Synka](Synka.md) mention, again!
+- Need to find a way to increase radiation levels so the [Shelter](Shelter.md) can unlock a bunch of doors.
+- [Randolph](People.md) is from the [Laboratory](Laboratory.md).

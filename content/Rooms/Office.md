@@ -7,7 +7,7 @@ tags:
 ---
 
 ![](Pasted%20image%2020260326215941.png)
-- [Greenhouse](Greenhouse.md) lever, and an east and west lever?
+- [Greenhouse](Greenhouse.md) lever, and an east and west lever to open the [The Antechamber](The%20Antechamber.md)?
 - Also I can view emails here?
 	- A pointing left arrow is seen here
 	- A king is here.
