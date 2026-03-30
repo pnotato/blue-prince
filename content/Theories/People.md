@@ -116,6 +116,8 @@ aliases:
 ### Hartley?
 - Mentioned in the [Darkroom](../Rooms/Darkroom.md).
 - Mentioned in one of the emails in the [Office](../Rooms/Office.md).
+- Mentioned in the [Servant's Quarters](../Rooms/Servant's%20Quarters.md)
+- Probably a servant of some kind? A valet
 ### Randolph M.
 - Mentioned in the [Laboratory](../Rooms/Laboratory.md)
 - Maybe is Moore?

@@ -8,7 +8,7 @@ tags:
 - A key to a secret garden is found here?
 	- By brute force I was able to find a [Secret Garden](../Rooms/Secret%20Garden.md) on day 7. See [README](../../../../School/CMPT%20201/README.md).
 - Page 8 is in the [Workshop](../Rooms/Workshop.md)
-- Pages 6 and 7 are in the [Ballroom](Ballroom.md)
+- Pages 6 and 7 are in the [Ballroom](../Rooms/Ballroom.md)
 ### Thoughts
 - The key I seek is in major tongue? 
 - A half note held is quite the pun?

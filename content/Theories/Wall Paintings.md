@@ -5,7 +5,7 @@ aliases:
   - Painting
 ---
 ![Paintings.excalidraw](Attachments/Paintings.excalidraw.md)
-*Quartz and Github can't render excalidraw. I'll update this when I'm done.*
+![](Attachments/Paintings.excalidraw.png)
 
 - A Streamer mentioned that there’s lots of math in this game, such as tie time or lock clock?
 - So far, they seem to be words missing a letter.

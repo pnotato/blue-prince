@@ -239,3 +239,13 @@ Black Box: The gems are in a box that are actually blue
 - If blue is false
 
 **Answer**: The gems are in white, since blue is false. First time I've gotten a parlor room wrong sadge
+
+### Day 26
+
+Blue Box: Every box is black
+White Box: Every box contains gems
+Black Box: THE STATEMENT ON ONE OF THE OTHER TWO BOXES WOULD BE TRUE IF YOU
+REPLACED THE WORD 'EVERY' WITH THE WORD 'THIS'
+
+**Reasoning**: Blue and white are obviously false. Is black true?
+- White would be true, if black is true. "This box contains gems"?
