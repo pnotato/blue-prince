@@ -89,7 +89,7 @@ we will fix it in our regular service visit next week.
 ~ Gabe, DCPOWER inc.
 ```
 
-![](Pasted%20image%2020260330224220.png)
+![](Attachments/Pasted%20image%2020260330224220.png)
 - A safe!
 - This note is labelled 8
 
@@ -192,5 +192,8 @@ forever anonymous,
 
 X
 ```
-- Somebody was blackmailing me? Maybe he's part of the royal family responsible for [Marion](People.md) disappearance. He is a count.
+- Somebody was blackmailing me? Maybe he's part of the royal family responsible for [Marion](../Theories/People.md) disappearance. He is a count.
 - It's addressed by X though, so maybe not the count?  but someone related??
+
+![](Attachments/Pasted%20image%2020260330232720.png)
+heheheheheh

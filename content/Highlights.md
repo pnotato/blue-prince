@@ -53,3 +53,14 @@
 ### Day 24
 
 ![](Attachments/Pasted%20image%2020260328153256.png)
+
+### Day 29
+
+![](Attachments/Pasted%20image%2020260330230850.png)
+*And an explosion!*
+
+![](Attachments/Pasted%20image%2020260330232842.png)
+*Foyer, Great Hall, and Early Garden Key!*
+
+![](Attachments/Pasted%20image%2020260330234833.png)
+*So close*

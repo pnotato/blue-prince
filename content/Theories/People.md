@@ -52,11 +52,12 @@ aliases:
 
 ### Bridgette
 - The [Pantry](../Rooms/Pantry.md) has a note addressed to her.
-- As does the [Office](Office.md)
+- As does the [Office](../Rooms/Office.md)
 
 ### Cristoph
 - The [Garage](../Rooms/Garage.md) has a note addressed to him.
 - Herbert's Chauffer?
+- Mentioned in the note in the [Trading Post](../Rooms/Trading%20Post.md), alongside someone named Denny
 
 ### Mrs. Anne Babbage
 - The House Manager
@@ -139,4 +140,4 @@ aliases:
 
 ### Count Gates
 - Funny
-- Answer to the safe in the [Office](Office.md)
+- Answer to the safe in the [Office](../Rooms/Office.md)

@@ -151,3 +151,9 @@ too scared of chastisement to probe for the particulars for a third time!)
 
 ![](Attachments/Pasted%20image%2020260328020651.png)
 - Info in [Flames](Flames.md)
+
+### The Boxes Outside
+
+- We can light the flames with a magnifying glass + Metal Detector
+
+![](Attachments/Pasted%20image%2020260330230716.png)

@@ -9,3 +9,4 @@ tags:
 - There's a rock with an M
 	- On day 16 it changed to an E. Strange?
 	- On day 20 it's an O?
+	- On day 29 it's a G

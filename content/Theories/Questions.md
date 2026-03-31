@@ -26,3 +26,7 @@ cssclasses:
 
 - **Memos**:
 	- Do the red and blue memos in [Security](../Rooms/Security.md) remain the same between days? e.g. could they flip being true/false between days?
+
+### FINAL THEORIES BEFORE THE ANTECHAMBER
+
+- The house explodes, this is since the genie in the [Rumpus Room](../Rooms/Rumpus%20Room.md) says the house will be in ruin

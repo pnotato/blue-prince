@@ -267,3 +267,22 @@ Black Box: A box next to this box contains gems.
 
 **Reasoning**: 
 - White must be false. Since this is the case, black must also be false and blue must be true.
+
+### Day 28
+
+Blue Box: The box next to this box contains gems
+White Box: Both boxes next to this box contains gems
+Black Box: A box next to this box contains gems.
+
+**Reasoning**: 
+- White must be false. Since this is the case, black must also be false and blue must be true.
+
+### Day 29
+
+Blue Box: All three statements are false
+White Box: Two statements are false
+Black Box: The gems are in a box with a false statement
+
+**Reasoning**: Blue must be false. That leaves either white or black to be true.
+- If white is true: then black must be false. Gems are in white.
+	- If black is true, white must also be true. this cannot be.

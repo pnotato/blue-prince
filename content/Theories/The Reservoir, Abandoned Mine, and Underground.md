@@ -29,3 +29,6 @@ aliases:
 ![](Attachments/Pasted%20image%2020260330221403.png)
 - A moon! Like the [The Antechamber](The%20Antechamber.md) and [Clara Epsen](People.md)'s necklace
 - Now we just need a way to get in, now that we've found the 46th room
+
+![](Attachments/Pasted%20image%2020260330232111.png)
+- I accidentally got here from the gear room.

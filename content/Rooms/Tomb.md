@@ -83,11 +83,12 @@ Herbert S. Sinclair
 
 - The statues in the tomb can raise/lower the thing they're holding. What does this solve?
 	- Oh, the [Chapel](Chapel.md) has glass windows, maybe that's the order I need to push them in.
-- The candles seem to be the same across days...
+- The candles seem to be the same across days... nvm
+	- Answer: I need to use the burning glass (magnifying glass + metal detector)
 
 ![](Attachments/Pasted%20image%2020260327211520.png)
 - Ah, the [Chapel](Chapel.md) was the right answer.
 
 ![](Attachments/Pasted%20image%2020260327211538.png)
 ![](Attachments/Pasted%20image%2020260327211621.png)
-
+- More candles here!

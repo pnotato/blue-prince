@@ -8,5 +8,5 @@ tags:
 
 ![](Attachments/Pasted%20image%2020260323212653.png)
 
-- What is a [[Trophy Room]]?
+- What is a [Trophy Room](Trophy%20Room.md)?
 - Seems like this room is beneficial if I have a [Dining Room](Dining%20Room.md) 
