@@ -258,4 +258,12 @@ Black Box: Gems are in a box with a statement
 
 **Reasoning**: 
 - Blue is true, either white or black is false. that means gems are in black
-- Black i s
+
+### Day 28
+
+Blue Box: The box next to this box contains gems
+White Box: Both boxes next to this box contains gems
+Black Box: A box next to this box contains gems.
+
+**Reasoning**: 
+- White must be false. Since this is the case, black must also be false and blue must be true.

@@ -12,6 +12,7 @@ aliases:
   - Caleb Manning
   - Clara Epsen
   - Randolph
+  - office
 ---
 ![](Attachments/Pasted%20image%2020260325223244.png)
 - Found in the [Root Cellar](../Rooms/Root%20Cellar.md).
@@ -51,6 +52,7 @@ aliases:
 
 ### Bridgette
 - The [Pantry](../Rooms/Pantry.md) has a note addressed to her.
+- As does the [Office](Office.md)
 
 ### Cristoph
 - The [Garage](../Rooms/Garage.md) has a note addressed to him.
@@ -134,3 +136,7 @@ aliases:
 
 ### Detective Bon Margle
 - Checked out various books in the [Library](../Rooms/Library.md).
+
+### Count Gates
+- Funny
+- Answer to the safe in the [Office](Office.md)
