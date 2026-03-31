@@ -249,3 +249,13 @@ REPLACED THE WORD 'EVERY' WITH THE WORD 'THIS'
 
 **Reasoning**: Blue and white are obviously false. Is black true?
 - White would be true, if black is true. "This box contains gems"?
+
+### Day 27
+
+Blue Box: The gems are in the black box
+White Box: 
+Black Box: Gems are in a box with a statement
+
+**Reasoning**: 
+- Blue is true, either white or black is false. that means gems are in black
+- Black i s

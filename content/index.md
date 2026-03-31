@@ -112,3 +112,8 @@ My notes while playing the puzzle game [Blue Prince](https://store.steampowered.
 ### Day 26
 
 ![](Attachments/Pasted%20image%2020260329191554.png)
+
+### Day 27
+
+![](Attachments/Pasted%20image%2020260330222802.png)
+*So close, door was opened but didn't have enough steps :(*
