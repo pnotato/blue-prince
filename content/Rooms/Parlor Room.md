@@ -304,3 +304,12 @@ Black Box: A false box contains gems
 
 **Reasoning**: If blue is true, then white and black must be false.
 - If white is true, then black must be true, and blue must be false.
+
+### Day 32
+
+Blue Box: The gems are in this box
+White Box: The gems are in a box next to this box
+Black Box: The gems are in the blue box.
+
+**Reasoning**: If blue is true, then black is true and white is false. This cannot be.
+- Blue is false, then black is false and white is true. gems are in black.

@@ -3,6 +3,7 @@ title: Welcome
 ---
 
 My notes while playing the puzzle game [Blue Prince](https://store.steampowered.com/app/1569580/Blue_Prince/)! 
+- Finally finished the game! Took me 33 days to find the 46th room.
 - These notes were written in [Obsidian](https://obsidian.md/) and translated to Github Markdown. As such, some hyperlinks may be a little broken.
 ### Day 1
 
@@ -132,3 +133,8 @@ My notes while playing the puzzle game [Blue Prince](https://store.steampowered.
 ### Day 31
 
 ![](Attachments/Pasted%20image%2020260331174550.png)
+
+### Day 32 (The Finale)
+
+![](Attachments/Pasted%20image%2020260331180457.png)
+*My new home is like 90% hallway*

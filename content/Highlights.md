@@ -32,8 +32,7 @@
 *Well this is interesting.*
 
 ![](Attachments/Pasted%20image%2020260325220837.png)
-*Answers if anyone is watching me.*
-- I haven't seen another [Rumpus Room](Rooms/Rumpus%20Room.md) since?
+*Answers the questions if anyone is watching me.*
 
 ### Day 11
 ![](Attachments/Pasted%20image%2020260325235432.png)
@@ -69,3 +68,11 @@
 
 ![](Attachments/Pasted%20image%2020260331172021.png)
 *Got the Antechamber open, but didn't get the side door to the Mechanarium.*
+
+### Day 31
+
+![](Attachments/Pasted%20image%2020260331175844.png)
+*Finally!*
+
+![](Attachments/Pasted%20image%2020260331175856.png)![](Attachments/Pasted%20image%2020260331180220.png)
+*Awww*
