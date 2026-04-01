@@ -9,7 +9,14 @@ aliases:
 
 Cutscene: [https://www.youtube.com/watch?v=6x-AlamAX6E](https://www.youtube.com/watch?v=6x-AlamAX6E "https://www.youtube.com/watch?v=6x-AlamAX6E")
 
+### Cutscene 2
+
 ![](Attachments/Pasted%20image%2020260327222744.png)
 - Ruins?
 - Eight red envelopes in pedestals? From the rooms with a #observations/safe
 - A missing letter
+
+### Cutscene 3
+
+![](Attachments/Pasted%20image%2020260331171345.png)
+- So am I being watched?

@@ -10,3 +10,6 @@ tags:
 	- On day 16 it changed to an E. Strange?
 	- On day 20 it's an O?
 	- On day 29 it's a G
+- Oh, it's related to the [Wall Paintings](../Theories/Wall%20Paintings.md).
+
+![](Attachments/Pasted%20image%2020260331173136.png)

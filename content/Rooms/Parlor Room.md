@@ -286,3 +286,21 @@ Black Box: The gems are in a box with a false statement
 **Reasoning**: Blue must be false. That leaves either white or black to be true.
 - If white is true: then black must be false. Gems are in white.
 	- If black is true, white must also be true. this cannot be.
+
+### Day 30
+
+Blue Box: This and the white box are empty
+White Box: This and the blue box are empty
+Black Box: The other two statements have identical wording
+
+**Reasoning**: I think black is true? That must mean that either blue or white are false though. 
+- However, if say Blue is false, white must also be false. Black has the gems
+
+### Day 31
+
+Blue Box: The black box is false
+White Box: The black box is true
+Black Box: A false box contains gems
+
+**Reasoning**: If blue is true, then white and black must be false.
+- If white is true, then black must be true, and blue must be false.

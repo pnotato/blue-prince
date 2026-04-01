@@ -3,7 +3,6 @@ title: Welcome
 ---
 
 My notes while playing the puzzle game [Blue Prince](https://store.steampowered.com/app/1569580/Blue_Prince/)! 
-- Currently WIP as I haven't made it past rank 6.
 - These notes were written in [Obsidian](https://obsidian.md/) and translated to Github Markdown. As such, some hyperlinks may be a little broken.
 ### Day 1
 
@@ -125,3 +124,11 @@ My notes while playing the puzzle game [Blue Prince](https://store.steampowered.
 ### Day 29
 
 ![](Attachments/Pasted%20image%2020260330235157.png)
+
+### Day 30
+
+![](Attachments/Pasted%20image%2020260331172120.png)
+
+### Day 31
+
+![](Attachments/Pasted%20image%2020260331174550.png)

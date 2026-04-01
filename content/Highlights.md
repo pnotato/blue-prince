@@ -64,3 +64,8 @@
 
 ![](Attachments/Pasted%20image%2020260330234833.png)
 *So close*
+
+### Day 30
+
+![](Attachments/Pasted%20image%2020260331172021.png)
+*Got the Antechamber open, but didn't get the side door to the Mechanarium.*
