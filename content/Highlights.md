@@ -76,3 +76,7 @@
 
 ![](Attachments/Pasted%20image%2020260331175856.png)![](Attachments/Pasted%20image%2020260331180220.png)
 *Awww*
+
+### The Next Day
+
+![](Pasted%20image%2020260402214540.png)

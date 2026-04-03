@@ -26,3 +26,4 @@ tags:
 	- [Underground](The%20Reservoir,%20Abandoned%20Mine,%20and%20Underground.md)
 
 - As by the results on day 25, seems like the antechamber has to be opened each day.
+- On day 36, seems like the [Mechanarium](Mechanarium.md) can also open the antechamber.

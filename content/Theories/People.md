@@ -13,6 +13,7 @@ aliases:
   - Clara Epsen
   - Randolph
   - office
+  - Cristoph
 ---
 ![](Attachments/Pasted%20image%2020260325223244.png)
 - Found in the [Root Cellar](../Rooms/Root%20Cellar.md).

@@ -22,6 +22,7 @@ tags:
 - What's the password to login to the network?
 	- Starts with an S?
 	- With the magnifying glass: Password is SWANSONG
+	- I got minor spoilers from a streamer, seems like the screens also spell out SWANSONG. Interestingly enough, SWANSONGHSS is another access?
 
 ### Security Doors
 
