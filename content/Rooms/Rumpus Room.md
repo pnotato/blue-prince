@@ -20,3 +20,9 @@ Cutscene: [https://www.youtube.com/watch?v=6x-AlamAX6E](https://www.youtube.com/
 
 ![](Attachments/Pasted%20image%2020260331171345.png)
 - So am I being watched?
+
+### Cutscene 4
+
+![](Pasted%20image%2020260403114825.png)
+- Daniel?
+- The chair in the [Drawing Room](Drawing%20Room.md) has been sat in by people in the [[Foyer]]... and their portraits in the [Library](Library.md)?

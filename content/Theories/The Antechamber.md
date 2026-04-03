@@ -2,6 +2,8 @@
 tags:
   - rooms
   - theories
+aliases:
+  - room 46
 ---
 ![](Attachments/Pasted%20image%2020260324124315.png)
 
@@ -27,3 +29,30 @@ tags:
 
 - As by the results on day 25, seems like the antechamber has to be opened each day.
 - On day 36, seems like the [Mechanarium](Mechanarium.md) can also open the antechamber.
+
+### After Inheriting the Mansion
+
+![](Pasted%20image%2020260403115958.png)
+
+![](Pasted%20image%2020260403120027.png)
+
+### The Map Puzzle
+
+![](Pasted%20image%2020260403120458.png)
+*Man I should've kept better track of the maps in my notes.*
+
+### Fireplace Puzzle
+
+![](Pasted%20image%2020260403120716.png)
+
+- The same symbols mentioned in the [Library](Library.md)/[Classroom](Classroom.md)...
+- That's definitely a door to smt.
+
+### Outside
+
+Using the blessing of the monk from the [[Shrine]] on the Antechamber, the outside antechamber gives this.
+
+![](Pasted%20image%2020260403122000.png)
+*Is that [Herbert](People.md)'s [Tomb](Tomb.md)?*
+
+- So close, yet so far away?

@@ -14,6 +14,7 @@ aliases:
   - Randolph
   - office
   - Cristoph
+  - Bon Margle
 ---
 ![](Attachments/Pasted%20image%2020260325223244.png)
 - Found in the [Root Cellar](../Rooms/Root%20Cellar.md).
@@ -138,6 +139,7 @@ aliases:
 
 ### Detective Bon Margle
 - Checked out various books in the [Library](../Rooms/Library.md).
+- Investigating [Marion](People.md)'s disappearance? 
 
 ### Count Gates
 - Funny
