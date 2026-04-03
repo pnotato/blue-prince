@@ -32,3 +32,10 @@ aliases:
 
 ![](Attachments/Pasted%20image%2020260330232111.png)
 - I accidentally got here from the gear room.
+
+
+### The Power Hammer
+
+![](Pasted%20image%2020260402234035.png)
+
+![](Pasted%20image%2020260402234048.png)

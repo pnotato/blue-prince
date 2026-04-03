@@ -11,3 +11,6 @@ tags:
 
 ![](Attachments/Pasted%20image%2020260327215835.png)
 - Was [Daniel](../Theories/People.md) not a man?
+
+![](Pasted%20image%2020260402234435.png)
+- Ah, [Marion](People.md) is alive!
