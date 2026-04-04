@@ -2,6 +2,7 @@
 tags:
   - rooms
   - theories
+  - observations/safe
 aliases:
   - Reservoir
   - Abandoned Mine
@@ -39,3 +40,30 @@ aliases:
 ![](Attachments/Pasted%20image%2020260402234035.png)
 
 ![](Attachments/Pasted%20image%2020260402234048.png)
+
+### The Red Room
+
+![](Attachments/Pasted%20image%2020260404005017.png)
+*are we in space*
+
+![](Attachments/Pasted%20image%2020260404005049.png)
+
+![](Attachments/Pasted%20image%2020260404005648.png)
+
+![](Attachments/Pasted%20image%2020260404005658.png)
+- Man I love the [Pump Room](../Rooms/Pump%20Room.md). 
+
+### The Letter
+
+![](Attachments/Pasted%20image%2020260404010628.png)
+![](Attachments/Pasted%20image%2020260404010727.png)
+Black mail? Similar to the one in [room 46](The%20Antechamber.md).
+
+![](Attachments/Pasted%20image%2020260404010752.png)
+
+![](Attachments/Pasted%20image%2020260404010838.png)
+
+![](Attachments/Pasted%20image%2020260404010855.png)
+
+![](Attachments/Pasted%20image%2020260404010925.png)
+*Treasure Trove, a blackprint!*

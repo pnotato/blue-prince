@@ -56,3 +56,13 @@ Using the blessing of the monk from the [[Shrine]] on the Antechamber, the outsi
 *Is that [Herbert](People.md)'s [Tomb](../Rooms/Tomb.md)?*
 
 - So close, yet so far away?
+
+### Outer Room 46
+
+![](Attachments/Pasted%20image%2020260403230124.png)
+*Man*
+
+![](Attachments/Pasted%20image%2020260403230138.png)
+*Is this the thing in the [Gallery](../Rooms/Gallery.md)?*
+
+![](../Rooms/Attachments/Pasted%20image%2020260403230312.png)

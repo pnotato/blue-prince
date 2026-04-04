@@ -15,6 +15,7 @@ aliases:
   - office
   - Cristoph
   - Bon Margle
+  - Bridgette
 ---
 ![](Attachments/Pasted%20image%2020260325223244.png)
 - Found in the [Root Cellar](../Rooms/Root%20Cellar.md).
@@ -55,6 +56,7 @@ aliases:
 ### Bridgette
 - The [Pantry](../Rooms/Pantry.md) has a note addressed to her.
 - As does the [Office](../Rooms/Office.md)
+- Mentioned in the [Solarium](../Rooms/Solarium.md).
 
 ### Cristoph
 - The [Garage](../Rooms/Garage.md) has a note addressed to him.
