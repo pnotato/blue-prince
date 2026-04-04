@@ -8,6 +8,6 @@ tags:
 
 I wonder what happens if I get 8 mechanarium doors?
 
-![](Pasted%20image%2020260402225616.png)
+![](Attachments/Pasted%20image%2020260402225616.png)
 *Oh...*
 

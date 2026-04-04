@@ -79,22 +79,26 @@
 
 ### The Next Day
 
-![](Pasted%20image%2020260402214540.png)
+![](Attachments/Pasted%20image%2020260402214540.png)
 
 ### Day 40
 
-![](Pasted%20image%2020260403111852.png)
+![](Attachments/Pasted%20image%2020260403111852.png)
 *Good thing I had a package from the mail room on the previous day :o*
 ### Day 42
 
-![](Pasted%20image%2020260403121525.png)
+![](Attachments/Pasted%20image%2020260403121525.png)
 *Well that was easy*
 
-![](Pasted%20image%2020260403121920.png)
+![](Attachments/Pasted%20image%2020260403121920.png)
 *nvm what the heck*
 
-![](Pasted%20image%2020260403122000.png)
+![](Attachments/Pasted%20image%2020260403122000.png)
 *WHAT*
 
-![](Pasted%20image%2020260403122158.png)
+![](Attachments/Pasted%20image%2020260403122158.png)
 *rude*
+
+### Day 43
+
+![](Attachments/Pasted%20image%2020260403225856.png)

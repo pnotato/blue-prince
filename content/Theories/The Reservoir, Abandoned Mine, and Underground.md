@@ -36,6 +36,6 @@ aliases:
 
 ### The Power Hammer
 
-![](Pasted%20image%2020260402234035.png)
+![](Attachments/Pasted%20image%2020260402234035.png)
 
-![](Pasted%20image%2020260402234048.png)
+![](Attachments/Pasted%20image%2020260402234048.png)

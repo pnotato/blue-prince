@@ -28,31 +28,31 @@ aliases:
 	- [Underground](The%20Reservoir,%20Abandoned%20Mine,%20and%20Underground.md)
 
 - As by the results on day 25, seems like the antechamber has to be opened each day.
-- On day 36, seems like the [Mechanarium](Mechanarium.md) can also open the antechamber.
+- On day 36, seems like the [Mechanarium](../Rooms/Mechanarium.md) can also open the antechamber.
 
 ### After Inheriting the Mansion
 
-![](Pasted%20image%2020260403115958.png)
+![](Attachments/Pasted%20image%2020260403115958.png)
 
-![](Pasted%20image%2020260403120027.png)
+![](Attachments/Pasted%20image%2020260403120027.png)
 
 ### The Map Puzzle
 
-![](Pasted%20image%2020260403120458.png)
+![](Attachments/Pasted%20image%2020260403120458.png)
 *Man I should've kept better track of the maps in my notes.*
 
 ### Fireplace Puzzle
 
-![](Pasted%20image%2020260403120716.png)
+![](Attachments/Pasted%20image%2020260403120716.png)
 
-- The same symbols mentioned in the [Library](Library.md)/[Classroom](Classroom.md)...
+- The same symbols mentioned in the [Library](../Rooms/Library.md)/[Classroom](../Rooms/Classroom.md)...
 - That's definitely a door to smt.
 
 ### Outside
 
 Using the blessing of the monk from the [[Shrine]] on the Antechamber, the outside antechamber gives this.
 
-![](Pasted%20image%2020260403122000.png)
-*Is that [Herbert](People.md)'s [Tomb](Tomb.md)?*
+![](../Attachments/Pasted%20image%2020260403122000.png)
+*Is that [Herbert](People.md)'s [Tomb](../Rooms/Tomb.md)?*
 
 - So close, yet so far away?

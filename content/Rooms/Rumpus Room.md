@@ -23,6 +23,6 @@ Cutscene: [https://www.youtube.com/watch?v=6x-AlamAX6E](https://www.youtube.com/
 
 ### Cutscene 4
 
-![](Pasted%20image%2020260403114825.png)
+![](Attachments/Pasted%20image%2020260403114825.png)
 - Daniel?
 - The chair in the [Drawing Room](Drawing%20Room.md) has been sat in by people in the [[Foyer]]... and their portraits in the [Library](Library.md)?
