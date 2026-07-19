@@ -70,3 +70,19 @@ BE LOCKED AS YOU PROGRESS NORTH.
 **Terminal**: I can connect to the computer in the [Office](Office.md), [Shelter](Shelter.md), and [Laboratory](Laboratory.md).
 **Staff Services**: Seems like all the staff are on leave. See [Maid's Chamber](Maid's%20Chamber.md)? Also mentions [Mrs. Babbage](../Theories/People.md)
 **Data Transfers**: transfers from [Synka](../Theories/Synka.md) are disabled?
+
+### HSS
+
+Typing in SWANSONGHSS shows us the home security
+
+**1987**
+- **Library**: 2 people, ones copying something to another book?
+- **Entrance**: my boy Herbert is moving something? Perhaps a scepter?
+- **Security**: [Marion](People.md)?
+
+![](Pasted%20image%2020260718201634.png)
+
+*Other years do NOT have footage???*
+
+**1993**
+- Just replays of videos I've seen.

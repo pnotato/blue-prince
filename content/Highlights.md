@@ -102,3 +102,12 @@
 ### Day 43
 
 ![](Attachments/Pasted%20image%2020260403225856.png)
+
+### Day 52
+
+![](Pasted%20image%2020260718193330.png)
+
+### Day 52
+
+![](Pasted%20image%2020260718193956.png)
+*!!*

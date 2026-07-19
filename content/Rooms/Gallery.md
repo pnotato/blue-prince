@@ -32,3 +32,7 @@ tags:
 
 ![](Attachments/Pasted%20image%2020260403232022.png)
 *Why are there 2 now?*
+
+![](Pasted%20image%2020260718194848.png)
+*I don't remember what this does...*
+- Oh, it opens [[Room 8]]!

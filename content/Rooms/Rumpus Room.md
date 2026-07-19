@@ -26,3 +26,9 @@ Cutscene: [https://www.youtube.com/watch?v=6x-AlamAX6E](https://www.youtube.com/
 ![](Attachments/Pasted%20image%2020260403114825.png)
 - Daniel?
 - The chair in the [Drawing Room](Drawing%20Room.md) has been sat in by people in the [[Foyer]]... and their portraits in the [Library](Library.md)?
+
+### Cutscene 4
+
+![](Pasted%20image%2020260718202223.png)
+- I'm sitting in a trainstation looking area?
+- Could be one of the [Sanctum](Sanctum.md) keys?
