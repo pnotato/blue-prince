@@ -9,6 +9,8 @@ tags:
 - How does this puzzle work?
 - Maybe it's related to the clocks in the [Den](Den.md)?
 - Yellow is negative, blue is positive, pink is multiply?
+- Square is square
+- Diamond is reverse the digits
 
 
 

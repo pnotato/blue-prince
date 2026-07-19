@@ -11,3 +11,7 @@ tags:
 	- That was day 17.
 ![](Attachments/Pasted%20image%2020260327221659.png)
 - Oh, the [Maid's Chamber](Maid's%20Chamber.md) is a bedroom.
+
+![](Pasted%20image%2020260718222518.png)
+
+![](Pasted%20image%2020260718222535.png)
