@@ -27,39 +27,39 @@ Purple: Grape, Flag 3
 ### Grade 3
 ![](Attachments/Pasted%20image%2020260326211931.png)
 - Solutions to the [Laboratory](Laboratory.md).
-![](Pasted%20image%2020260404110918.png)
+![](Attachments/Pasted%20image%2020260404110918.png)
 *lamo*
 
 ### Grade 4
 
-![](Pasted%20image%2020260404111655.png)
-*Is this the solution to [room 46](The%20Antechamber.md)...*
+![](Attachments/Pasted%20image%2020260404111655.png)
+*Is this the solution to [room 46](../Theories/The%20Antechamber.md)...*
 
-![](Pasted%20image%2020260404111752.png)
-![](Pasted%20image%2020260404111801.png)
+![](Attachments/Pasted%20image%2020260404111752.png)
+![](Attachments/Pasted%20image%2020260404111801.png)
 
 ### Grade 5
 
-![](Pasted%20image%2020260404111908.png)
+![](Attachments/Pasted%20image%2020260404111908.png)
 *Another solution to the puzzle painting?*
 
 
 ### Grade 6
 
-![](Pasted%20image%2020260404112010.png)
-![](Pasted%20image%2020260404112021.png)
+![](Attachments/Pasted%20image%2020260404112010.png)
+![](Attachments/Pasted%20image%2020260404112021.png)
 
-![](Pasted%20image%2020260404112045.png)
+![](Attachments/Pasted%20image%2020260404112045.png)
 
-![](Pasted%20image%2020260404112116.png)
+![](Attachments/Pasted%20image%2020260404112116.png)
 
-![](Pasted%20image%2020260404112150.png)
+![](Attachments/Pasted%20image%2020260404112150.png)
 
 ### Grade 7
 
-![](Pasted%20image%2020260404112906.png)
+![](Attachments/Pasted%20image%2020260404112906.png)
 
 ### Grade 8
 
-![](Pasted%20image%2020260404113651.png)
-![](Pasted%20image%2020260404113721.png)
+![](Attachments/Pasted%20image%2020260404113651.png)
+![](Attachments/Pasted%20image%2020260404113721.png)

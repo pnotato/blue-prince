@@ -78,9 +78,9 @@ Typing in SWANSONGHSS shows us the home security
 **1987**
 - **Library**: 2 people, ones copying something to another book?
 - **Entrance**: my boy Herbert is moving something? Perhaps a scepter?
-- **Security**: [Marion](People.md)?
+- **Security**: [Marion](../Theories/People.md)?
 
-![](Pasted%20image%2020260718201634.png)
+![](Attachments/Pasted%20image%2020260718201634.png)
 
 *Other years do NOT have footage???*
 

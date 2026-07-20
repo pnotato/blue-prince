@@ -16,7 +16,7 @@ What do these bells mean? Surely not the hundred bells as referenced in the [The
 - Also, I haven't found [Her Ladyship's Chamber](Her%20Ladyship's%20Chamber.md) yet.
 
 
-![](Pasted%20image%2020260718215141.png)
+![](Attachments/Pasted%20image%2020260718215141.png)
 
 - Who is Mr. Routa?
 - I guess this is the password to [Blackbridge Grotto](Blackbridge%20Grotto.md)

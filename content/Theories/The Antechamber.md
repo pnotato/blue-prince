@@ -40,7 +40,7 @@ aliases:
 
 ![](Attachments/Pasted%20image%2020260403120458.png)
 *Man I should've kept better track of the maps in my notes.*
-- Possibly solved by grade 4 in the [Classroom](Classroom.md)?
+- Possibly solved by grade 4 in the [Classroom](../Rooms/Classroom.md)?
 
 ### Fireplace Puzzle
 
@@ -66,4 +66,4 @@ Using the blessing of the monk from the [[Shrine]] on the Antechamber, the outsi
 ![](Attachments/Pasted%20image%2020260403230138.png)
 *Is this the thing in the [Gallery](../Rooms/Gallery.md)?*
 
-![](Pasted%20image%2020260403230312.png)
+![](Attachments/Pasted%20image%2020260403230312.png)

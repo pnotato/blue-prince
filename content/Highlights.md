@@ -105,9 +105,9 @@
 
 ### Day 52
 
-![](Pasted%20image%2020260718193330.png)
+![](Attachments/Pasted%20image%2020260718193330.png)
 
 ### Day 52
 
-![](Pasted%20image%2020260718193956.png)
+![](Attachments/Pasted%20image%2020260718193956.png)
 *!!*
